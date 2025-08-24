@@ -1,7 +1,9 @@
+#pip install scrapy
+
 import re
 import scrapy
 
-
+# Formata as efetividades dos tipos
 def format_effectiveness(txt: str) -> str:
     if not txt:
         return "neutro"
@@ -17,7 +19,6 @@ class PokemonSpokemon_ider(scrapy.Spokemon_ider):
 
     # REGEX para pegar o nivel do pokemon por exemplo: (level 16) -> 16
     LV_Regex = re.compile(r"\bLevel\s*(\d+)", re.I)
-
 
     # Pega o ultimo segmento da url por exemplo https://pokemondb.net/pokedex/bulbasaur -> bulbasaur (para saber qual a proxima evolução)
     @staticmethod
@@ -166,42 +167,41 @@ class PokemonSpokemon_ider(scrapy.Spokemon_ider):
                         {"id": s["id"], "name": s["name"], "link": s["link"]}
                     )
 
-            # Varre edges e coleta:
-            for e in edges:
-                a = stages[e["i_from"]]
-                b = stages[e["i_to"]]
+            for edge in edges:
+                origin_stage = stages[edge["i_from"]]
+                destination_stage = stages[edge["i_to"]]
 
                 # anterior -> atual
-                if b["slug"] == current_slug and from_name is None:
-                    from_name, from_id, from_link = a["name"], a["id"], a["link"]
+                if destination_stage["slug"] == current_slug and from_name is None:
+                    from_name, from_id, from_link = origin_stage["name"], origin_stage["id"], origin_stage["link"]
 
                 # atual -> destino(s)
-                if a["slug"] == current_slug:
-                    key = (b["slug"], e["method_text"], e["level"], e["item"])
+                if origin_stage["slug"] == current_slug:
+                    key = (destination_stage["slug"], edge["method_text"], edge["level"], edge["item"])
 
 
                     if key not in seen_edges_flat:
                         seen_edges_flat.add(key)
                         evolutions.append({
-                            "to_id": b["id"],
-                            "to_name": b["name"],
-                            "to_link": b["link"],
-                            "method": e["method_text"],
-                            "level": e["level"],
-                            "item": e["item"],
-                            "item_link": e["item_link"],
+                            "to_id": destination_stage["id"],
+                            "to_name": destination_stage["name"],
+                            "to_link": destination_stage["link"],
+                            "method": edge["method_text"],
+                            "level": edge["level"],
+                            "item": edge["item"],
+                            "item_link": edge["item_link"],
                         })
 
 
                     if key not in seen_edges_lists:
                         seen_edges_lists.add(key)
-                        to_names.append(b["name"])
-                        to_ids.append(b["id"])
-                        to_links.append(b["link"])
-                        methods.append(e["method_text"])
-                        levels.append(e["level"])
-                        items.append(e["item"])
-                        item_links.append(e["item_link"])
+                        to_names.append(destination_stage["name"])
+                        to_ids.append(destination_stage["id"])
+                        to_links.append(destination_stage["link"])
+                        methods.append(edge["method_text"])
+                        levels.append(edge["level"])
+                        items.append(edge["item"])
+                        item_links.append(edge["item_link"])
 
         # Monta a primeira entrada (o próprio Pokémon)
         evo_entry = {
@@ -226,12 +226,14 @@ class PokemonSpokemon_ider(scrapy.Spokemon_ider):
         attributes["evolutions"] = evolutions 
 
 
+    # Pega todas as informações basicas do pokemon
     def parse_base_info(self, pokemon, attributes, link):
         attributes["id"] = pokemon.css("span.infocard-cell-data::text").get()
         attributes["name"] = pokemon.css("a.ent-name::text").get()
         attributes["link"] = link
         attributes["types"] = pokemon.css("td.cell-icon a::text").getall()
 
+    # Começo do parse
     def parse(self, response):
         for pokemon in response.css("table#pokedex tbody tr"):
 
@@ -248,6 +250,7 @@ class PokemonSpokemon_ider(scrapy.Spokemon_ider):
             else:
                 yield attributes
 
+    # Pega informações da segunda tela onde tem os detalhes dos pokemons
     def parse_details(self, response, attributes):
 
         self.parse_height_weight(response, attributes)
@@ -258,6 +261,7 @@ class PokemonSpokemon_ider(scrapy.Spokemon_ider):
 
         yield from self.parse_abilities(response, attributes)
 
+    # Pega informações sobre a altura e peso e transforma para cm e kg
     def parse_height_weight(self, response, attributes):
 
         # Pega o texto bruto
@@ -285,6 +289,7 @@ class PokemonSpokemon_ider(scrapy.Spokemon_ider):
         attributes["height"] = height_cm
         attributes["weight"] = weight_kg
 
+    # Pega as efetividades e retorna quais sao os tipos efetivos e não efetivos daquele pokemon
     def parse_effectiveness(self, response, attributes):
         types_names = response.css("table.type-table tr:nth-child(1) th a::attr(title)").getall()
         types_multipliers = [td.css("::text").get(default="").strip()
@@ -294,6 +299,7 @@ class PokemonSpokemon_ider(scrapy.Spokemon_ider):
             type_effectiveness[t] = format_effectiveness(v)
         attributes["effectiveness"] = type_effectiveness
 
+    # Pega as habilidades e entra no link delas para pegar a descrição
     def parse_abilities(self, response, attributes):
         raw_abilities = response.css("th:contains('Abilities') + td a")
         ability_links = raw_abilities.css("::attr(href)").getall()
@@ -315,6 +321,7 @@ class PokemonSpokemon_ider(scrapy.Spokemon_ider):
                 dont_filter=True  # processa mesmo URLs repetidas
             )
 
+    # Pega as descrições das habilidades dos pokemons
     def parse_ability(self, response, attributes, ability_name):
         description_text = response.css("h2:contains('Effect') + p *::text").getall()
         description_text = " ".join(t.strip() for t in description_text if t.strip()) or "—"
