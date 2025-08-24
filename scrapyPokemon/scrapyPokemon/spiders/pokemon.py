@@ -10,79 +10,92 @@ def format_effectiveness(txt: str) -> str:
                .replace("0", "nulo")
                .replace("2", "super efetivo"))
 
-
-class PokemonSpider(scrapy.Spider):
+class PokemonSpokemon_ider(scrapy.Spokemon_ider):
     name = "pokemon"
     allowed_domains = ["pokemondb.net"]
     start_urls = ["https://pokemondb.net/pokedex/all"]
 
-    # ----------------- Utils p/ evolução -----------------
-    _LV_RE = re.compile(r"\bLevel\s*(\d+)", re.I)
+    # REGEX para pegar o nivel do pokemon por exemplo: (level 16) -> 16
+    LV_Regex = re.compile(r"\bLevel\s*(\d+)", re.I)
 
+
+    # Pega o ultimo segmento da url por exemplo https://pokemondb.net/pokedex/bulbasaur -> bulbasaur (para saber qual a proxima evolução)
     @staticmethod
-    def _slug_from_href(href: str) -> str:
+    def slug_from_href(href: str) -> str:
         if not href:
             return ""
         href = href.rstrip("/")
         return href.split("/")[-1]
 
+    # Limpa o texto retirando espaços
     @staticmethod
-    def _clean_join_text(sel):
-        return " ".join(t.strip() for t in sel.css("::text").getall() if t.strip())
+    def clean_join_text(sel):
+        return " ".join(txt.strip() for txt in sel.css("::text").getall() if txt.strip())
 
+    # Faz realmente a troca de (level X) -> X se não encontrar retorna none
     @classmethod
-    def _parse_level_from(cls, cond_text: str):
-        m = cls._LV_RE.search(cond_text or "")
-        return int(m.group(1)) if m else None
+    def parse_level_from(cls, cond_text: str):
+        match = cls.LV_Regex.search(cond_text or "")
+        return int(match.group(1)) if match else None
+    
 
-    def _collect_chain_cards_and_conds(self, chain_sel, response):
-        """
-        Para um bloco .infocard-list-evo (com/sem splits):
-        - stages: [{id, name, link, slug}] únicos
-        - edges:  [{i_from, i_to, method_text, level, item, item_link}] por seta
-        """
+    def parse_cards_conds(self, chain_sel, response):
+
         def parse_card(card_sel):
+            # Extrai o nome do Pokémon
             name = (card_sel.css("a.ent-name::text").get() or "").strip()
+
+             # Pega o href relativo do card (link para a página do Pokémon)
             href = card_sel.css("a.ent-name::attr(href)").get() or ""
-            slug = self._slug_from_href(href)
+
+            # Converte o href em slug (último segmento do path) para usar como ID
+            slug = self.slug_from_href(href)
+
+            # Constrói link absoluto
             link_abs = response.urljoin(href)
+
+            # Coleta os textos de como exemplo "# 133" etc.
             small_text = " ".join(t.strip() for t in card_sel.css("small::text, small *::text").getall() if t.strip())
-            m = re.search(r"#\s*(\d+)", small_text)
-            pid = m.group(1) if m else None
-            return {"id": pid, "name": name, "link": link_abs, "slug": slug}
+
+            # Tenta extrair o número do pokemon tipo "# 133"
+            match = re.search(r"#\s*(\d+)", small_text)
+            pokemon_id = match.group(1) if match else None
+
+            # Retorna a estrutura canônica de um "nó" da cadeia
+            return {"id": pokemon_id, "name": name, "link": link_abs, "slug": slug}
 
         stages_list, slug_to_index, edges = [], {}, []
 
         arrows = chain_sel.xpath(".//span[contains(@class,'infocard-arrow')]")
         for arrow in arrows:
             # destino: 1º card depois da seta
-            dst_card = arrow.xpath("following::div[contains(@class,'infocard')][1]")
-            if not dst_card:
+            destination_card = arrow.xpath("following::div[contains(@class,'infocard')][1]")
+            if not destination_card:
                 continue
 
             # origem: se dentro de split, é o card imediatamente antes do split; senão, último antes da seta
             split_anc = arrow.xpath("ancestor::span[contains(@class,'infocard-evo-split')][1]")
             if split_anc:
-                src_card = split_anc.xpath("preceding-sibling::div[contains(@class,'infocard')][1]")
+                source_card = split_anc.xpath("preceding-sibling::div[contains(@class,'infocard')][1]")
             else:
-                src_card = arrow.xpath("preceding::div[contains(@class,'infocard')][1]")
-            if not src_card:
+                source_card = arrow.xpath("preceding::div[contains(@class,'infocard')][1]")
+            if not source_card:
                 continue
 
-            a = parse_card(src_card)
-            b = parse_card(dst_card)
-            if not a["slug"] or not b["slug"]:
+            from_stage = parse_card(source_card)
+            to_stage = parse_card(destination_card)
+            if not from_stage["slug"] or not to_stage["slug"]:
                 continue
 
             # registra índices únicos
-            if a["slug"] not in slug_to_index:
-                slug_to_index[a["slug"]] = len(stages_list)
-                stages_list.append(a)
-            if b["slug"] not in slug_to_index:
-                slug_to_index[b["slug"]] = len(stages_list)
-                stages_list.append(b)
+            if from_stage["slug"] not in slug_to_index:
+                slug_to_index[from_stage["slug"]] = len(stages_list)
+                stages_list.append(from_stage)
+            if to_stage["slug"] not in slug_to_index:
+                slug_to_index[to_stage["slug"]] = len(stages_list)
+                stages_list.append(to_stage)
 
-            # texto da condição (remove parênteses)
+            # remove parenteses do level ou item
             raw = (arrow.xpath("normalize-space(string(.))").get() or "").strip()
             if raw.startswith("(") and raw.endswith(")"):
                 raw = raw[1:-1].strip()
@@ -96,12 +109,12 @@ class PokemonSpider(scrapy.Spider):
                     item_link = response.urljoin(href)
                     break
 
-            level = self._parse_level_from(raw)   # "Level N" -> int
+            level = self.parse_level_from(raw)   # "Level N" -> int
             method_text = f"Level {level}" if level is not None else raw
 
             edges.append({
-                "i_from": slug_to_index[a["slug"]],
-                "i_to": slug_to_index[b["slug"]],
+                "i_from": slug_to_index[from_stage["slug"]],
+                "i_to": slug_to_index[to_stage["slug"]],
                 "method_text": method_text,
                 "level": level,
                 "item": item_name,
@@ -121,29 +134,27 @@ class PokemonSpider(scrapy.Spider):
 
 
 
-    def _build_evolution_stages(self, response, attributes):
-        """
-        Monta:
-        - attributes['evolution_stages'] (igual antes, porém sem duplicatas)
-        - attributes['evolutions']       (lista plana: uma entrada por aresta atual -> destino)
-        """
-        current_slug = self._slug_from_href(attributes.get("link") or response.url)
+    def build_evolution_stages(self, response, attributes):
 
-        # Agregadores do bloco "antigo" (primeira entrada do Pokemon atual)
-        from_name = from_id = from_link = None
-        to_names, to_ids, to_links = [], [], []
-        methods, levels, items, item_links = [], [], [], []
 
-        # Para listar estágios extras da(s) cadeia(s)
+        # Descobre o slug do Pokémon atual (usa attributes['link'] se existir; senão a URL da página)
+        current_slug = self.slug_from_href(attributes.get("link") or response.url)
+
+
+        from_name = from_id = from_link = None # quem evolui para o atual (estágio anterior)
+        to_names, to_ids, to_links = [], [], [] # destinos possíveis a partir do atual
+        methods, levels, items, item_links = [], [], [], [] # guardar a forma de evolução
+
+
         others_by_slug = {}
 
-        # NOVO: lista plana de evoluções (uma por aresta) e sets para deduplicar
+
         evolutions = []
         seen_edges_flat = set()      # (to_slug, method, level, item)
         seen_edges_lists = set()     # mesmo critério, para deduplicar nos arrays to_/method_
 
         for chain in response.css("div.infocard-list-evo"):
-            stages, edges = self._collect_chain_cards_and_conds(chain, response)
+            stages, edges = self.parse_cards_conds(chain, response)
             if not stages:
                 continue
 
@@ -168,7 +179,7 @@ class PokemonSpider(scrapy.Spider):
                 if a["slug"] == current_slug:
                     key = (b["slug"], e["method_text"], e["level"], e["item"])
 
-                    # 1) lista plana (sem duplicar)
+
                     if key not in seen_edges_flat:
                         seen_edges_flat.add(key)
                         evolutions.append({
@@ -181,7 +192,7 @@ class PokemonSpider(scrapy.Spider):
                             "item_link": e["item_link"],
                         })
 
-                    # 2) listas agregadas do evolution_stages (sem duplicar)
+
                     if key not in seen_edges_lists:
                         seen_edges_lists.add(key)
                         to_names.append(b["name"])
@@ -208,14 +219,13 @@ class PokemonSpider(scrapy.Spider):
             "item_link_to": item_links,
         }
 
-        # Demais estágios (linhas evolutivas envolvidas)
+        # Demais estágios (linhas evolutivas)
         others_list = list(others_by_slug.values())
 
         attributes["evolution_stages"] = [evo_entry] + others_list
-        attributes["evolutions"] = evolutions  # 👈 NOVO: uma linha por evolução atual -> destino
+        attributes["evolutions"] = evolutions 
 
 
-    # ----------------- Seu fluxo original -----------------
     def parse_base_info(self, pokemon, attributes, link):
         attributes["id"] = pokemon.css("span.infocard-cell-data::text").get()
         attributes["name"] = pokemon.css("a.ent-name::text").get()
@@ -239,17 +249,18 @@ class PokemonSpider(scrapy.Spider):
                 yield attributes
 
     def parse_details(self, response, attributes):
+
         self.parse_height_weight(response, attributes)
+
         self.parse_effectiveness(response, attributes)
 
-        # <<< Novo: evolução no formato pedido >>>
-        self._build_evolution_stages(response, attributes)
+        self.build_evolution_stages(response, attributes)
 
-        # abilities mantém yield com _pending
         yield from self.parse_abilities(response, attributes)
 
     def parse_height_weight(self, response, attributes):
-         # Pega o texto bruto como antes
+
+        # Pega o texto bruto
         raw_height = response.css("th:contains('Height') + td::text").get() or ""
         raw_weight = response.css("th:contains('Weight') + td::text").get() or ""
 
@@ -266,12 +277,11 @@ class PokemonSpider(scrapy.Spider):
 
         if m_match:
             meters = float(m_match.group(1))
-            height_cm = round(meters * 100, 1)  # 1 casa p/ manter precisão
+            height_cm = round(meters * 100, 1)
 
         if kg_match:
-            weight_kg = float(kg_match.group(1))  # já está em kg
+            weight_kg = float(kg_match.group(1))
 
-        # Mantém as mesmas chaves, mas agora em cm e kg (numéricos)
         attributes["height"] = height_cm
         attributes["weight"] = weight_kg
 
@@ -288,7 +298,7 @@ class PokemonSpider(scrapy.Spider):
         raw_abilities = response.css("th:contains('Abilities') + td a")
         ability_links = raw_abilities.css("::attr(href)").getall()
         ability_names = [n.strip() for n in raw_abilities.css("::text").getall()]
-        attributes["abilties_link"] = ability_links  # mantenho a sua chave; se quiser, renomeie p/ abilities_link
+        attributes["abilties_link"] = ability_links 
         attributes["abilities"] = {}
         attributes["_pending"] = len(ability_links)
 
