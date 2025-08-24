@@ -80,7 +80,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/chlorophyll"
     ],
@@ -170,7 +170,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/chlorophyll"
     ],
@@ -236,7 +236,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/chlorophyll",
       "/ability/thick-fat"
@@ -327,7 +327,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/solar-power"
     ],
@@ -416,7 +416,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/solar-power"
     ],
@@ -482,7 +482,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/solar-power",
       "/ability/tough-claws",
@@ -575,7 +575,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/rain-dish"
     ],
@@ -664,7 +664,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/rain-dish"
     ],
@@ -729,7 +729,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/rain-dish",
       "/ability/mega-launcher"
@@ -820,7 +820,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shield-dust",
       "/ability/run-away"
     ],
@@ -909,7 +909,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin"
     ],
     "abilities": {
@@ -973,7 +973,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/compound-eyes",
       "/ability/tinted-lens"
     ],
@@ -1063,7 +1063,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shield-dust",
       "/ability/run-away"
     ],
@@ -1153,7 +1153,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin"
     ],
     "abilities": {
@@ -1217,7 +1217,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/sniper",
       "/ability/adaptability"
@@ -1309,7 +1309,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/tangled-feet",
       "/ability/big-pecks"
@@ -1401,7 +1401,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/tangled-feet",
       "/ability/big-pecks"
@@ -1469,7 +1469,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/tangled-feet",
       "/ability/big-pecks",
@@ -1557,7 +1557,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/guts",
       "/ability/hustle",
@@ -1624,7 +1624,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/guts",
       "/ability/hustle",
@@ -1716,7 +1716,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/sniper"
     ],
@@ -1777,7 +1777,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/sniper"
     ],
@@ -1861,7 +1861,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/shed-skin",
       "/ability/unnerve"
@@ -1923,7 +1923,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/shed-skin",
       "/ability/unnerve"
@@ -2030,7 +2030,7 @@
         "item_link": "https://pokemondb.net/item/thunder-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/lightning-rod"
     ],
@@ -2095,7 +2095,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/lightning-rod",
       "/ability/surge-surfer"
@@ -2197,7 +2197,7 @@
         "item_link": "https://pokemondb.net/item/ice-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-veil",
       "/ability/sand-rush",
       "/ability/snow-cloak",
@@ -2261,7 +2261,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-veil",
       "/ability/sand-rush",
       "/ability/snow-cloak",
@@ -2354,7 +2354,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/rivalry",
       "/ability/hustle"
@@ -2445,7 +2445,7 @@
         "item_link": "https://pokemondb.net/item/moon-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/rivalry",
       "/ability/hustle"
@@ -2513,7 +2513,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/rivalry",
       "/ability/sheer-force"
@@ -2604,7 +2604,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/rivalry",
       "/ability/hustle"
@@ -2695,7 +2695,7 @@
         "item_link": "https://pokemondb.net/item/moon-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/rivalry",
       "/ability/hustle"
@@ -2763,7 +2763,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/rivalry",
       "/ability/sheer-force"
@@ -2854,7 +2854,7 @@
         "item_link": "https://pokemondb.net/item/moon-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/magic-guard",
       "/ability/friend-guard"
@@ -2921,7 +2921,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/magic-guard",
       "/ability/unaware"
@@ -3023,7 +3023,7 @@
         "item_link": "https://pokemondb.net/item/ice-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flash-fire",
       "/ability/drought",
       "/ability/snow-cloak",
@@ -3087,7 +3087,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flash-fire",
       "/ability/drought",
       "/ability/snow-cloak",
@@ -3181,7 +3181,7 @@
         "item_link": "https://pokemondb.net/item/moon-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/competitive",
       "/ability/friend-guard"
@@ -3249,7 +3249,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/competitive",
       "/ability/frisk"
@@ -3341,7 +3341,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus",
       "/ability/infiltrator"
     ],
@@ -3431,7 +3431,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus",
       "/ability/infiltrator"
     ],
@@ -3526,7 +3526,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/run-away"
     ],
@@ -3637,7 +3637,7 @@
         "item_link": "https://pokemondb.net/item/sun-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/stench"
     ],
@@ -3708,7 +3708,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/effect-spore"
     ],
@@ -3793,7 +3793,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/effect-spore",
       "/ability/dry-skin",
       "/ability/damp"
@@ -3856,7 +3856,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/effect-spore",
       "/ability/dry-skin",
       "/ability/damp"
@@ -3943,7 +3943,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/compound-eyes",
       "/ability/tinted-lens",
       "/ability/run-away"
@@ -4006,7 +4006,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shield-dust",
       "/ability/tinted-lens",
       "/ability/wonder-skin"
@@ -4092,7 +4092,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-veil",
       "/ability/arena-trap",
       "/ability/sand-force",
@@ -4158,7 +4158,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-veil",
       "/ability/arena-trap",
       "/ability/sand-force",
@@ -4285,7 +4285,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pickup",
       "/ability/technician",
       "/ability/unnerve",
@@ -4360,7 +4360,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/limber",
       "/ability/technician",
       "/ability/unnerve",
@@ -4451,7 +4451,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/damp",
       "/ability/cloud-nine",
       "/ability/swift-swim"
@@ -4513,7 +4513,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/damp",
       "/ability/cloud-nine",
       "/ability/swift-swim"
@@ -4604,7 +4604,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/vital-spirit",
       "/ability/anger-point",
       "/ability/defiant"
@@ -4695,7 +4695,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/vital-spirit",
       "/ability/anger-point",
       "/ability/defiant"
@@ -4781,7 +4781,7 @@
         "item_link": "https://pokemondb.net/item/fire-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/flash-fire",
       "/ability/justified",
@@ -4847,7 +4847,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/flash-fire",
       "/ability/justified",
@@ -4947,7 +4947,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-absorb",
       "/ability/damp",
       "/ability/swift-swim"
@@ -5059,7 +5059,7 @@
         "item_link": "https://pokemondb.net/item/kings-rock"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-absorb",
       "/ability/damp",
       "/ability/swift-swim"
@@ -5132,7 +5132,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-absorb",
       "/ability/damp",
       "/ability/swift-swim"
@@ -5223,7 +5223,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/synchronize",
       "/ability/inner-focus",
       "/ability/magic-guard"
@@ -5314,7 +5314,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/synchronize",
       "/ability/inner-focus",
       "/ability/magic-guard"
@@ -5381,7 +5381,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/synchronize",
       "/ability/inner-focus",
       "/ability/magic-guard",
@@ -5474,7 +5474,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/no-guard",
       "/ability/steadfast"
@@ -5565,7 +5565,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/no-guard",
       "/ability/steadfast"
@@ -5632,7 +5632,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/no-guard",
       "/ability/steadfast"
@@ -5724,7 +5724,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/gluttony"
     ],
@@ -5814,7 +5814,7 @@
         "item_link": "https://pokemondb.net/item/leaf-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/gluttony"
     ],
@@ -5880,7 +5880,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/gluttony"
     ],
@@ -5965,7 +5965,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/liquid-ooze",
       "/ability/rain-dish"
@@ -6028,7 +6028,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/liquid-ooze",
       "/ability/rain-dish"
@@ -6120,7 +6120,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rock-head",
       "/ability/sturdy",
       "/ability/sand-veil",
@@ -6217,7 +6217,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rock-head",
       "/ability/sturdy",
       "/ability/sand-veil",
@@ -6290,7 +6290,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rock-head",
       "/ability/sturdy",
       "/ability/sand-veil",
@@ -6381,7 +6381,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/flash-fire",
       "/ability/flame-body",
@@ -6448,7 +6448,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/flash-fire",
       "/ability/flame-body",
@@ -6593,7 +6593,7 @@
         "item_link": "https://pokemondb.net/item/galarica-wreath"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/oblivious",
       "/ability/own-tempo",
       "/ability/regenerator",
@@ -6665,7 +6665,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/oblivious",
       "/ability/own-tempo",
       "/ability/regenerator",
@@ -6763,7 +6763,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/magnet-pull",
       "/ability/sturdy",
       "/ability/analytic"
@@ -6855,7 +6855,7 @@
         "item_link": "https://pokemondb.net/item/thunder-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/magnet-pull",
       "/ability/sturdy",
       "/ability/analytic"
@@ -6942,7 +6942,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/inner-focus",
       "/ability/defiant",
@@ -7033,7 +7033,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/early-bird",
       "/ability/tangled-feet"
@@ -7096,7 +7096,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/early-bird",
       "/ability/tangled-feet"
@@ -7182,7 +7182,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/hydration",
       "/ability/ice-body"
@@ -7245,7 +7245,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/hydration",
       "/ability/ice-body"
@@ -7331,7 +7331,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/stench",
       "/ability/sticky-hold",
       "/ability/poison-touch",
@@ -7398,7 +7398,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/stench",
       "/ability/sticky-hold",
       "/ability/poison-touch",
@@ -7489,7 +7489,7 @@
         "item_link": "https://pokemondb.net/item/water-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shell-armor",
       "/ability/skill-link",
       "/ability/overcoat"
@@ -7552,7 +7552,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shell-armor",
       "/ability/skill-link",
       "/ability/overcoat"
@@ -7644,7 +7644,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -7732,7 +7732,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -7796,7 +7796,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cursed-body",
       "/ability/shadow-tag"
     ],
@@ -7881,7 +7881,7 @@
         "item_link": "https://pokemondb.net/item/metal-coat"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rock-head",
       "/ability/sturdy",
       "/ability/weak-armor"
@@ -7967,7 +7967,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/insomnia",
       "/ability/forewarn",
       "/ability/inner-focus"
@@ -8029,7 +8029,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/insomnia",
       "/ability/forewarn",
       "/ability/inner-focus"
@@ -8115,7 +8115,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hyper-cutter",
       "/ability/shell-armor",
       "/ability/sheer-force"
@@ -8177,7 +8177,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hyper-cutter",
       "/ability/shell-armor",
       "/ability/sheer-force"
@@ -8279,7 +8279,7 @@
         "item_link": "https://pokemondb.net/item/leaf-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/soundproof",
       "/ability/static",
       "/ability/aftermath",
@@ -8344,7 +8344,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/soundproof",
       "/ability/static",
       "/ability/aftermath",
@@ -8450,7 +8450,7 @@
         "item_link": "https://pokemondb.net/item/leaf-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/harvest"
     ],
@@ -8511,7 +8511,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/harvest",
       "/ability/frisk",
@@ -8598,7 +8598,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rock-head",
       "/ability/lightning-rod",
       "/ability/battle-armor"
@@ -8660,7 +8660,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rock-head",
       "/ability/lightning-rod",
       "/ability/battle-armor",
@@ -8736,7 +8736,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/limber",
       "/ability/reckless",
       "/ability/unburden"
@@ -8808,7 +8808,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/iron-fist",
       "/ability/inner-focus"
@@ -8894,7 +8894,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/own-tempo",
       "/ability/oblivious",
       "/ability/cloud-nine"
@@ -8980,7 +8980,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate",
       "/ability/neutralizing-gas",
       "/ability/stench"
@@ -9042,7 +9042,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate",
       "/ability/neutralizing-gas",
       "/ability/stench",
@@ -9138,7 +9138,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/lightning-rod",
       "/ability/rock-head",
       "/ability/reckless"
@@ -9230,7 +9230,7 @@
         "item_link": "https://pokemondb.net/item/protector"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/lightning-rod",
       "/ability/rock-head",
       "/ability/reckless"
@@ -9321,7 +9321,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/natural-cure",
       "/ability/serene-grace",
       "/ability/healer"
@@ -9407,7 +9407,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/leaf-guard",
       "/ability/regenerator"
@@ -9464,7 +9464,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/early-bird",
       "/ability/scrappy",
       "/ability/inner-focus",
@@ -9557,7 +9557,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/sniper",
       "/ability/damp"
@@ -9648,7 +9648,7 @@
         "item_link": "https://pokemondb.net/item/dragon-scale"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/sniper",
       "/ability/damp"
@@ -9734,7 +9734,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/water-veil",
       "/ability/lightning-rod"
@@ -9796,7 +9796,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/water-veil",
       "/ability/lightning-rod"
@@ -9882,7 +9882,7 @@
         "item_link": "https://pokemondb.net/item/water-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/illuminate",
       "/ability/natural-cure",
       "/ability/analytic"
@@ -9945,7 +9945,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/illuminate",
       "/ability/natural-cure",
       "/ability/analytic"
@@ -10013,7 +10013,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/soundproof",
       "/ability/filter",
       "/ability/technician",
@@ -10127,7 +10127,7 @@
         "item_link": "https://pokemondb.net/item/black-augurite"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/technician",
       "/ability/steadfast"
@@ -10190,7 +10190,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/oblivious",
       "/ability/forewarn",
       "/ability/dry-skin"
@@ -10281,7 +10281,7 @@
         "item_link": "https://pokemondb.net/item/electirizer"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/vital-spirit"
     ],
@@ -10370,7 +10370,7 @@
         "item_link": "https://pokemondb.net/item/magmarizer"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flame-body",
       "/ability/vital-spirit"
     ],
@@ -10425,7 +10425,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hyper-cutter",
       "/ability/mold-breaker",
       "/ability/moxie",
@@ -10484,7 +10484,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/anger-point",
       "/ability/sheer-force",
@@ -10580,7 +10580,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/rattled"
     ],
@@ -10641,7 +10641,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/moxie",
       "/ability/mold-breaker"
@@ -10699,7 +10699,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-absorb",
       "/ability/shell-armor",
       "/ability/hydration"
@@ -10756,7 +10756,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/limber",
       "/ability/imposter"
     ],
@@ -10987,7 +10987,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/adaptability",
       "/ability/anticipation"
@@ -11084,7 +11084,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-absorb",
       "/ability/hydration"
     ],
@@ -11179,7 +11179,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/volt-absorb",
       "/ability/quick-feet"
     ],
@@ -11274,7 +11274,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flash-fire",
       "/ability/guts"
     ],
@@ -11363,7 +11363,7 @@
         "item_link": "https://pokemondb.net/item/upgrade"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/trace",
       "/ability/download",
       "/ability/analytic"
@@ -11450,7 +11450,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/shell-armor",
       "/ability/weak-armor"
@@ -11513,7 +11513,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/shell-armor",
       "/ability/weak-armor"
@@ -11600,7 +11600,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/battle-armor",
       "/ability/weak-armor"
@@ -11663,7 +11663,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/battle-armor",
       "/ability/weak-armor"
@@ -11721,7 +11721,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rock-head",
       "/ability/pressure",
       "/ability/unnerve",
@@ -11785,7 +11785,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/immunity",
       "/ability/thick-fat",
       "/ability/gluttony"
@@ -11843,7 +11843,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/snow-cloak",
       "/ability/competitive"
@@ -11901,7 +11901,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/static",
       "/ability/defiant"
@@ -11959,7 +11959,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/flame-body",
       "/ability/berserk"
@@ -12050,7 +12050,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin",
       "/ability/marvel-scale"
     ],
@@ -12139,7 +12139,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin",
       "/ability/marvel-scale"
     ],
@@ -12205,7 +12205,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus",
       "/ability/multiscale"
     ],
@@ -12260,7 +12260,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/unnerve",
       "/ability/steadfast",
@@ -12319,7 +12319,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/synchronize"
     ],
     "abilities": {
@@ -12406,7 +12406,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/leaf-guard"
     ],
@@ -12495,7 +12495,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/leaf-guard"
     ],
@@ -12560,7 +12560,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/leaf-guard"
     ],
@@ -12649,7 +12649,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/flash-fire"
     ],
@@ -12738,7 +12738,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/flash-fire"
     ],
@@ -12803,7 +12803,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/flash-fire",
       "/ability/blaze",
@@ -12895,7 +12895,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/sheer-force"
     ],
@@ -12984,7 +12984,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/sheer-force"
     ],
@@ -13049,7 +13049,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/sheer-force"
     ],
@@ -13133,7 +13133,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/keen-eye",
       "/ability/frisk"
@@ -13195,7 +13195,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/keen-eye",
       "/ability/frisk"
@@ -13282,7 +13282,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/insomnia",
       "/ability/keen-eye",
       "/ability/tinted-lens"
@@ -13345,7 +13345,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/insomnia",
       "/ability/keen-eye",
       "/ability/tinted-lens"
@@ -13432,7 +13432,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/early-bird",
       "/ability/rattled"
@@ -13495,7 +13495,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/early-bird",
       "/ability/iron-fist"
@@ -13582,7 +13582,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/insomnia",
       "/ability/sniper"
@@ -13645,7 +13645,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/insomnia",
       "/ability/sniper"
@@ -13713,7 +13713,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus",
       "/ability/infiltrator"
     ],
@@ -13798,7 +13798,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/volt-absorb",
       "/ability/illuminate",
       "/ability/water-absorb"
@@ -13861,7 +13861,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/volt-absorb",
       "/ability/illuminate",
       "/ability/water-absorb"
@@ -13952,7 +13952,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/lightning-rod"
     ],
@@ -14041,7 +14041,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/magic-guard",
       "/ability/friend-guard"
@@ -14133,7 +14133,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/competitive",
       "/ability/friend-guard"
@@ -14224,7 +14224,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hustle",
       "/ability/serene-grace",
       "/ability/super-luck"
@@ -14316,7 +14316,7 @@
         "item_link": "https://pokemondb.net/item/shiny-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hustle",
       "/ability/serene-grace",
       "/ability/super-luck"
@@ -14403,7 +14403,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/synchronize",
       "/ability/early-bird",
       "/ability/magic-bounce"
@@ -14466,7 +14466,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/synchronize",
       "/ability/early-bird",
       "/ability/magic-bounce"
@@ -14557,7 +14557,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/plus"
     ],
@@ -14646,7 +14646,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/plus"
     ],
@@ -14711,7 +14711,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/plus",
       "/ability/mold-breaker"
@@ -14783,7 +14783,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/healer"
     ],
@@ -14873,7 +14873,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/huge-power",
       "/ability/sap-sipper"
@@ -14941,7 +14941,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/huge-power",
       "/ability/sap-sipper"
@@ -15003,7 +15003,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/rock-head",
       "/ability/rattled"
@@ -15075,7 +15075,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-absorb",
       "/ability/damp",
       "/ability/drizzle"
@@ -15167,7 +15167,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/leaf-guard",
       "/ability/infiltrator"
@@ -15259,7 +15259,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/leaf-guard",
       "/ability/infiltrator"
@@ -15327,7 +15327,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/leaf-guard",
       "/ability/infiltrator"
@@ -15413,7 +15413,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/pickup",
       "/ability/skill-link"
@@ -15499,7 +15499,7 @@
         "item_link": "https://pokemondb.net/item/sun-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/solar-power",
       "/ability/early-bird"
@@ -15561,7 +15561,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/solar-power",
       "/ability/early-bird"
@@ -15648,7 +15648,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/speed-boost",
       "/ability/compound-eyes",
       "/ability/frisk"
@@ -15756,7 +15756,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/damp",
       "/ability/water-absorb",
       "/ability/unaware",
@@ -15828,7 +15828,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/damp",
       "/ability/water-absorb",
       "/ability/unaware"
@@ -15925,7 +15925,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/synchronize",
       "/ability/magic-bounce"
     ],
@@ -16020,7 +16020,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/synchronize",
       "/ability/inner-focus"
     ],
@@ -16105,7 +16105,7 @@
         "item_link": "https://pokemondb.net/item/dusk-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/insomnia",
       "/ability/super-luck",
       "/ability/prankster"
@@ -16173,7 +16173,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/oblivious",
       "/ability/own-tempo",
       "/ability/regenerator",
@@ -16263,7 +16263,7 @@
         "item_link": "https://pokemondb.net/item/dusk-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -16316,7 +16316,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -16374,7 +16374,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shadow-tag",
       "/ability/telepathy"
     ],
@@ -16459,7 +16459,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus",
       "/ability/early-bird",
       "/ability/sap-sipper"
@@ -16545,7 +16545,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/overcoat"
     ],
@@ -16606,7 +16606,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/overcoat"
     ],
@@ -16706,7 +16706,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/serene-grace",
       "/ability/run-away",
       "/ability/rattled"
@@ -16793,7 +16793,7 @@
         "item_link": "https://pokemondb.net/item/razor-fang"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hyper-cutter",
       "/ability/sand-veil",
       "/ability/immunity"
@@ -16856,7 +16856,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rock-head",
       "/ability/sturdy",
       "/ability/sheer-force",
@@ -16944,7 +16944,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/run-away",
       "/ability/rattled"
@@ -17006,7 +17006,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/quick-feet",
       "/ability/rattled"
@@ -17093,7 +17093,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/swift-swim",
       "/ability/intimidate",
@@ -17164,7 +17164,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/technician",
       "/ability/light-metal",
@@ -17223,7 +17223,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/gluttony",
       "/ability/contrary"
@@ -17281,7 +17281,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/guts",
       "/ability/moxie",
@@ -17391,7 +17391,7 @@
         "item_link": "https://pokemondb.net/item/razor-claw"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus",
       "/ability/keen-eye",
       "/ability/pickpocket",
@@ -17485,7 +17485,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pickup",
       "/ability/quick-feet",
       "/ability/honey-gather"
@@ -17576,7 +17576,7 @@
         "item_link": "https://pokemondb.net/item/peat-block"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/quick-feet",
       "/ability/unnerve"
@@ -17662,7 +17662,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/magma-armor",
       "/ability/flame-body",
       "/ability/weak-armor"
@@ -17725,7 +17725,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/magma-armor",
       "/ability/flame-body",
       "/ability/weak-armor"
@@ -17817,7 +17817,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/oblivious",
       "/ability/snow-cloak",
       "/ability/thick-fat"
@@ -17909,7 +17909,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/oblivious",
       "/ability/snow-cloak",
       "/ability/thick-fat"
@@ -17996,7 +17996,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hustle",
       "/ability/natural-cure",
       "/ability/regenerator",
@@ -18086,7 +18086,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hustle",
       "/ability/sniper",
       "/ability/moody"
@@ -18148,7 +18148,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/suction-cups",
       "/ability/sniper",
       "/ability/moody"
@@ -18206,7 +18206,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/vital-spirit",
       "/ability/hustle",
       "/ability/insomnia"
@@ -18269,7 +18269,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/water-absorb",
       "/ability/water-veil"
@@ -18327,7 +18327,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/sturdy",
       "/ability/weak-armor"
@@ -18414,7 +18414,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/early-bird",
       "/ability/flash-fire",
       "/ability/unnerve"
@@ -18477,7 +18477,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/early-bird",
       "/ability/flash-fire",
       "/ability/unnerve",
@@ -18547,7 +18547,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/sniper",
       "/ability/damp"
@@ -18633,7 +18633,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pickup",
       "/ability/sand-veil"
     ],
@@ -18693,7 +18693,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/sand-veil"
     ],
@@ -18782,7 +18782,7 @@
         "item_link": "https://pokemondb.net/item/dubious-disc"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/trace",
       "/ability/download",
       "/ability/analytic"
@@ -18868,7 +18868,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/frisk",
       "/ability/sap-sipper"
@@ -18925,7 +18925,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/own-tempo",
       "/ability/technician",
       "/ability/moody"
@@ -19053,7 +19053,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/steadfast",
       "/ability/vital-spirit"
@@ -19125,7 +19125,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/technician",
       "/ability/steadfast"
@@ -19212,7 +19212,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/oblivious",
       "/ability/forewarn",
       "/ability/hydration"
@@ -19303,7 +19303,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/vital-spirit"
     ],
@@ -19392,7 +19392,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flame-body",
       "/ability/vital-spirit"
     ],
@@ -19447,7 +19447,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/scrappy",
       "/ability/sap-sipper"
@@ -19514,7 +19514,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/natural-cure",
       "/ability/serene-grace",
       "/ability/healer"
@@ -19571,7 +19571,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/inner-focus"
     ],
@@ -19626,7 +19626,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/inner-focus"
     ],
@@ -19681,7 +19681,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/inner-focus"
     ],
@@ -19771,7 +19771,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/sand-veil"
     ],
@@ -19861,7 +19861,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin"
     ],
     "abilities": {
@@ -19925,7 +19925,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-stream",
       "/ability/unnerve",
       "/ability/sand-stream"
@@ -19982,7 +19982,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/multiscale"
     ],
@@ -20038,7 +20038,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/regenerator"
     ],
@@ -20094,7 +20094,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/natural-cure"
     ],
     "abilities": {
@@ -20181,7 +20181,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/unburden"
     ],
@@ -20270,7 +20270,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/unburden"
     ],
@@ -20335,7 +20335,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/unburden",
       "/ability/lightning-rod"
@@ -20426,7 +20426,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/speed-boost"
     ],
@@ -20516,7 +20516,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/speed-boost"
     ],
@@ -20582,7 +20582,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/speed-boost",
       "/ability/speed-boost"
@@ -20672,7 +20672,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/damp"
     ],
@@ -20762,7 +20762,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/damp"
     ],
@@ -20828,7 +20828,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/damp",
       "/ability/swift-swim"
@@ -20914,7 +20914,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/quick-feet",
       "/ability/rattled"
@@ -20976,7 +20976,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/quick-feet",
       "/ability/moxie"
@@ -21067,7 +21067,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pickup",
       "/ability/gluttony",
       "/ability/quick-feet",
@@ -21161,7 +21161,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pickup",
       "/ability/gluttony",
       "/ability/quick-feet",
@@ -21313,7 +21313,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shield-dust",
       "/ability/run-away"
     ],
@@ -21388,7 +21388,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin"
     ],
     "abilities": {
@@ -21462,7 +21462,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/rivalry"
     ],
@@ -21537,7 +21537,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin"
     ],
     "abilities": {
@@ -21611,7 +21611,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shield-dust",
       "/ability/compound-eyes"
     ],
@@ -21701,7 +21701,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/rain-dish",
       "/ability/own-tempo"
@@ -21793,7 +21793,7 @@
         "item_link": "https://pokemondb.net/item/water-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/rain-dish",
       "/ability/own-tempo"
@@ -21861,7 +21861,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/rain-dish",
       "/ability/own-tempo"
@@ -21952,7 +21952,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/early-bird",
       "/ability/pickpocket"
@@ -22044,7 +22044,7 @@
         "item_link": "https://pokemondb.net/item/leaf-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/early-bird",
       "/ability/pickpocket"
@@ -22112,7 +22112,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/wind-rider",
       "/ability/pickpocket"
@@ -22199,7 +22199,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/scrappy"
     ],
@@ -22260,7 +22260,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/scrappy"
     ],
@@ -22345,7 +22345,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/hydration",
       "/ability/rain-dish"
@@ -22408,7 +22408,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/drizzle",
       "/ability/rain-dish"
@@ -22505,7 +22505,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/synchronize",
       "/ability/trace",
       "/ability/telepathy"
@@ -22618,7 +22618,7 @@
         "item_link": "https://pokemondb.net/item/dawn-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/synchronize",
       "/ability/trace",
       "/ability/telepathy"
@@ -22691,7 +22691,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/synchronize",
       "/ability/trace",
       "/ability/telepathy",
@@ -22780,7 +22780,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/rain-dish"
     ],
@@ -22841,7 +22841,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/unnerve"
     ],
@@ -22925,7 +22925,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/effect-spore",
       "/ability/poison-heal",
       "/ability/quick-feet"
@@ -22988,7 +22988,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/effect-spore",
       "/ability/poison-heal",
       "/ability/technician"
@@ -23079,7 +23079,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/truant"
     ],
     "abilities": {
@@ -23166,7 +23166,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/vital-spirit"
     ],
     "abilities": {
@@ -23229,7 +23229,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/truant"
     ],
     "abilities": {
@@ -23312,7 +23312,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/compound-eyes",
       "/ability/run-away"
     ],
@@ -23373,7 +23373,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/speed-boost",
       "/ability/infiltrator"
     ],
@@ -23439,7 +23439,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/wonder-guard"
     ],
     "abilities": {
@@ -23526,7 +23526,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/soundproof",
       "/ability/rattled"
     ],
@@ -23615,7 +23615,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/soundproof",
       "/ability/scrappy"
     ],
@@ -23680,7 +23680,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/soundproof",
       "/ability/scrappy"
     ],
@@ -23764,7 +23764,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/guts",
       "/ability/sheer-force"
@@ -23826,7 +23826,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/guts",
       "/ability/sheer-force"
@@ -23918,7 +23918,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/huge-power",
       "/ability/sap-sipper"
@@ -24004,7 +24004,7 @@
         "item_link": "https://pokemondb.net/item/thunder-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/magnet-pull",
       "/ability/sand-force"
@@ -24090,7 +24090,7 @@
         "item_link": "https://pokemondb.net/item/moon-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/normalize",
       "/ability/wonder-skin"
@@ -24152,7 +24152,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/normalize",
       "/ability/wonder-skin"
@@ -24210,7 +24210,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/stall",
       "/ability/prankster",
@@ -24270,7 +24270,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hyper-cutter",
       "/ability/intimidate",
       "/ability/sheer-force",
@@ -24364,7 +24364,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/rock-head",
       "/ability/heavy-metal"
@@ -24456,7 +24456,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/rock-head",
       "/ability/heavy-metal"
@@ -24524,7 +24524,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/rock-head",
       "/ability/heavy-metal",
@@ -24613,7 +24613,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pure-power",
       "/ability/telepathy"
     ],
@@ -24674,7 +24674,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pure-power",
       "/ability/telepathy",
       "/ability/pure-power"
@@ -24759,7 +24759,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/lightning-rod",
       "/ability/minus"
@@ -24821,7 +24821,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/lightning-rod",
       "/ability/minus",
@@ -24880,7 +24880,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/plus",
       "/ability/lightning-rod"
     ],
@@ -24935,7 +24935,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/minus",
       "/ability/volt-absorb"
     ],
@@ -24990,7 +24990,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/illuminate",
       "/ability/swarm",
       "/ability/prankster"
@@ -25047,7 +25047,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/oblivious",
       "/ability/tinted-lens",
       "/ability/prankster"
@@ -25139,7 +25139,7 @@
         "item_link": "https://pokemondb.net/item/shiny-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/natural-cure",
       "/ability/poison-point",
       "/ability/leaf-guard"
@@ -25225,7 +25225,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/liquid-ooze",
       "/ability/sticky-hold",
       "/ability/gluttony"
@@ -25287,7 +25287,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/liquid-ooze",
       "/ability/sticky-hold",
       "/ability/gluttony"
@@ -25374,7 +25374,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rough-skin",
       "/ability/speed-boost"
     ],
@@ -25435,7 +25435,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rough-skin",
       "/ability/speed-boost",
       "/ability/strong-jaw"
@@ -25521,7 +25521,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-veil",
       "/ability/oblivious",
       "/ability/pressure"
@@ -25583,7 +25583,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-veil",
       "/ability/oblivious",
       "/ability/pressure"
@@ -25670,7 +25670,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/oblivious",
       "/ability/simple",
       "/ability/own-tempo"
@@ -25733,7 +25733,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/magma-armor",
       "/ability/solid-rock",
       "/ability/anger-point",
@@ -25792,7 +25792,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/white-smoke",
       "/ability/drought",
       "/ability/shell-armor"
@@ -25878,7 +25878,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/own-tempo",
       "/ability/gluttony"
@@ -25940,7 +25940,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/own-tempo",
       "/ability/gluttony"
@@ -25997,7 +25997,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/own-tempo",
       "/ability/tangled-feet",
       "/ability/contrary"
@@ -26088,7 +26088,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hyper-cutter",
       "/ability/arena-trap",
       "/ability/sheer-force"
@@ -26180,7 +26180,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -26244,7 +26244,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -26326,7 +26326,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-veil",
       "/ability/water-absorb"
     ],
@@ -26387,7 +26387,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-veil",
       "/ability/water-absorb"
     ],
@@ -26472,7 +26472,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/natural-cure",
       "/ability/cloud-nine"
     ],
@@ -26533,7 +26533,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/natural-cure",
       "/ability/cloud-nine",
       "/ability/pixilate"
@@ -26590,7 +26590,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/immunity",
       "/ability/toxic-boost"
     ],
@@ -26645,7 +26645,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin",
       "/ability/infiltrator"
     ],
@@ -26701,7 +26701,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -26755,7 +26755,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -26838,7 +26838,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/oblivious",
       "/ability/anticipation",
       "/ability/hydration"
@@ -26901,7 +26901,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/oblivious",
       "/ability/anticipation",
       "/ability/hydration"
@@ -26987,7 +26987,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hyper-cutter",
       "/ability/shell-armor",
       "/ability/adaptability"
@@ -27050,7 +27050,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hyper-cutter",
       "/ability/shell-armor",
       "/ability/adaptability"
@@ -27137,7 +27137,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -27196,7 +27196,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -27279,7 +27279,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/suction-cups",
       "/ability/storm-drain"
     ],
@@ -27340,7 +27340,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/suction-cups",
       "/ability/storm-drain"
     ],
@@ -27425,7 +27425,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/battle-armor",
       "/ability/swift-swim"
     ],
@@ -27486,7 +27486,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/battle-armor",
       "/ability/swift-swim"
     ],
@@ -27570,7 +27570,7 @@
         "item_link": "https://pokemondb.net/item/prism-scale"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/oblivious",
       "/ability/adaptability"
@@ -27632,7 +27632,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/marvel-scale",
       "/ability/competitive",
       "/ability/cute-charm"
@@ -27689,7 +27689,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/forecast",
       "/ability/forecast",
       "/ability/forecast",
@@ -27745,7 +27745,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/color-change",
       "/ability/protean"
     ],
@@ -27829,7 +27829,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/insomnia",
       "/ability/frisk",
       "/ability/cursed-body"
@@ -27891,7 +27891,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/insomnia",
       "/ability/frisk",
       "/ability/cursed-body",
@@ -27984,7 +27984,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate",
       "/ability/frisk"
     ],
@@ -28073,7 +28073,7 @@
         "item_link": "https://pokemondb.net/item/reaper-cloth"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/frisk"
     ],
@@ -28129,7 +28129,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/solar-power",
       "/ability/harvest"
@@ -28191,7 +28191,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -28244,7 +28244,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/super-luck",
       "/ability/justified",
@@ -28332,7 +28332,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shadow-tag",
       "/ability/telepathy"
     ],
@@ -28437,7 +28437,7 @@
         "item_link": "https://pokemondb.net/item/dawn-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus",
       "/ability/ice-body",
       "/ability/moody"
@@ -28504,7 +28504,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus",
       "/ability/ice-body",
       "/ability/moody",
@@ -28598,7 +28598,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/ice-body",
       "/ability/oblivious"
@@ -28690,7 +28690,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/ice-body",
       "/ability/oblivious"
@@ -28758,7 +28758,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/ice-body",
       "/ability/oblivious"
@@ -28865,7 +28865,7 @@
         "item_link": "https://pokemondb.net/item/deep-sea-scale"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shell-armor",
       "/ability/rattled"
     ],
@@ -28930,7 +28930,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/water-veil"
     ],
@@ -28995,7 +28995,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/hydration"
     ],
@@ -29051,7 +29051,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/rock-head",
       "/ability/sturdy"
@@ -29108,7 +29108,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/hydration"
     ],
@@ -29197,7 +29197,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rock-head",
       "/ability/sheer-force"
     ],
@@ -29286,7 +29286,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rock-head",
       "/ability/overcoat"
     ],
@@ -29352,7 +29352,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/moxie",
       "/ability/aerilate"
@@ -29444,7 +29444,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/light-metal"
     ],
@@ -29534,7 +29534,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/light-metal"
     ],
@@ -29600,7 +29600,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/light-metal",
       "/ability/tough-claws"
@@ -29657,7 +29657,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/sturdy"
     ],
@@ -29712,7 +29712,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/ice-body"
     ],
@@ -29767,7 +29767,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/light-metal"
     ],
@@ -29823,7 +29823,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate",
       "/ability/levitate"
     ],
@@ -29878,7 +29878,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate",
       "/ability/levitate"
     ],
@@ -29932,7 +29932,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/drizzle",
       "/ability/primordial-sea"
     ],
@@ -29987,7 +29987,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/drought",
       "/ability/desolate-land"
     ],
@@ -30043,7 +30043,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/air-lock",
       "/ability/delta-stream"
     ],
@@ -30099,7 +30099,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/serene-grace"
     ],
     "abilities": {
@@ -30152,7 +30152,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/pressure",
       "/ability/pressure",
@@ -30242,7 +30242,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/shell-armor"
     ],
@@ -30331,7 +30331,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/shell-armor"
     ],
@@ -30397,7 +30397,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/shell-armor"
     ],
@@ -30486,7 +30486,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/iron-fist"
     ],
@@ -30576,7 +30576,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/iron-fist"
     ],
@@ -30642,7 +30642,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/iron-fist"
     ],
@@ -30731,7 +30731,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/competitive"
     ],
@@ -30820,7 +30820,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/competitive"
     ],
@@ -30886,7 +30886,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/competitive"
     ],
@@ -30976,7 +30976,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/reckless"
     ],
@@ -31066,7 +31066,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/reckless"
     ],
@@ -31132,7 +31132,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/reckless"
     ],
@@ -31216,7 +31216,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/simple",
       "/ability/unaware",
       "/ability/moody"
@@ -31279,7 +31279,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/simple",
       "/ability/unaware",
       "/ability/moody"
@@ -31365,7 +31365,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin",
       "/ability/run-away"
     ],
@@ -31425,7 +31425,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/technician"
     ],
@@ -31514,7 +31514,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rivalry",
       "/ability/intimidate",
       "/ability/guts"
@@ -31605,7 +31605,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rivalry",
       "/ability/intimidate",
       "/ability/guts"
@@ -31672,7 +31672,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rivalry",
       "/ability/intimidate",
       "/ability/guts"
@@ -31764,7 +31764,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/natural-cure",
       "/ability/poison-point",
       "/ability/leaf-guard"
@@ -31832,7 +31832,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/natural-cure",
       "/ability/poison-point",
       "/ability/technician"
@@ -31918,7 +31918,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/mold-breaker",
       "/ability/sheer-force"
     ],
@@ -31978,7 +31978,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/mold-breaker",
       "/ability/sheer-force"
     ],
@@ -32063,7 +32063,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/soundproof"
     ],
@@ -32124,7 +32124,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/soundproof"
     ],
@@ -32229,7 +32229,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin",
       "/ability/overcoat",
       "/ability/shed-skin",
@@ -32299,7 +32299,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/anticipation",
       "/ability/overcoat",
       "/ability/anticipation",
@@ -32369,7 +32369,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/tinted-lens"
     ],
@@ -32454,7 +32454,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/honey-gather",
       "/ability/hustle"
     ],
@@ -32515,7 +32515,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/unnerve"
     ],
@@ -32570,7 +32570,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/pickup",
       "/ability/volt-absorb"
@@ -32656,7 +32656,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/water-veil"
     ],
@@ -32716,7 +32716,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/water-veil"
     ],
@@ -32800,7 +32800,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll"
     ],
     "abilities": {
@@ -32858,7 +32858,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flower-gift"
     ],
     "abilities": {
@@ -32940,7 +32940,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sticky-hold",
       "/ability/storm-drain",
       "/ability/sand-force"
@@ -33003,7 +33003,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sticky-hold",
       "/ability/storm-drain",
       "/ability/sand-force"
@@ -33065,7 +33065,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/technician",
       "/ability/pickup",
       "/ability/skill-link"
@@ -33152,7 +33152,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/aftermath",
       "/ability/unburden",
       "/ability/flare-boost"
@@ -33215,7 +33215,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/aftermath",
       "/ability/unburden",
       "/ability/flare-boost"
@@ -33301,7 +33301,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/klutz",
       "/ability/limber"
@@ -33363,7 +33363,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/klutz",
       "/ability/limber",
@@ -33427,7 +33427,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -33486,7 +33486,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/insomnia",
       "/ability/super-luck",
       "/ability/moxie"
@@ -33572,7 +33572,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/limber",
       "/ability/own-tempo",
       "/ability/keen-eye"
@@ -33634,7 +33634,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/own-tempo",
       "/ability/defiant"
@@ -33720,7 +33720,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -33803,7 +33803,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/stench",
       "/ability/aftermath",
       "/ability/keen-eye"
@@ -33866,7 +33866,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/stench",
       "/ability/aftermath",
       "/ability/keen-eye"
@@ -33953,7 +33953,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate",
       "/ability/heatproof",
       "/ability/heavy-metal"
@@ -34016,7 +34016,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate",
       "/ability/heatproof",
       "/ability/heavy-metal"
@@ -34102,7 +34102,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/rock-head",
       "/ability/rattled"
@@ -34226,7 +34226,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/soundproof",
       "/ability/filter",
       "/ability/technician"
@@ -34317,7 +34317,7 @@
         "item_link": "https://pokemondb.net/item/oval-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/natural-cure",
       "/ability/serene-grace",
       "/ability/friend-guard"
@@ -34375,7 +34375,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/tangled-feet",
       "/ability/big-pecks"
@@ -34433,7 +34433,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/infiltrator"
     ],
@@ -34523,7 +34523,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-veil",
       "/ability/rough-skin"
     ],
@@ -34613,7 +34613,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-veil",
       "/ability/rough-skin"
     ],
@@ -34679,7 +34679,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-veil",
       "/ability/rough-skin",
       "/ability/sand-force"
@@ -34765,7 +34765,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pickup",
       "/ability/thick-fat",
       "/ability/gluttony"
@@ -34851,7 +34851,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/steadfast",
       "/ability/inner-focus",
       "/ability/prankster"
@@ -34914,7 +34914,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/steadfast",
       "/ability/inner-focus",
       "/ability/justified",
@@ -35002,7 +35002,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-stream",
       "/ability/sand-force"
     ],
@@ -35062,7 +35062,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-stream",
       "/ability/sand-force"
     ],
@@ -35147,7 +35147,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/battle-armor",
       "/ability/sniper",
       "/ability/keen-eye"
@@ -35210,7 +35210,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/battle-armor",
       "/ability/sniper",
       "/ability/keen-eye"
@@ -35297,7 +35297,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/anticipation",
       "/ability/dry-skin",
       "/ability/poison-touch"
@@ -35360,7 +35360,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/anticipation",
       "/ability/dry-skin",
       "/ability/poison-touch"
@@ -35417,7 +35417,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -35499,7 +35499,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/storm-drain",
       "/ability/water-veil"
@@ -35561,7 +35561,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/storm-drain",
       "/ability/water-veil"
@@ -35648,7 +35648,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/water-absorb",
       "/ability/water-veil"
@@ -35735,7 +35735,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/snow-warning",
       "/ability/soundproof"
     ],
@@ -35796,7 +35796,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/snow-warning",
       "/ability/soundproof",
       "/ability/snow-warning"
@@ -35863,7 +35863,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/pickpocket"
     ],
@@ -35929,7 +35929,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/magnet-pull",
       "/ability/sturdy",
       "/ability/analytic"
@@ -35991,7 +35991,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/own-tempo",
       "/ability/oblivious",
       "/ability/cloud-nine"
@@ -36059,7 +36059,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/lightning-rod",
       "/ability/solid-rock",
       "/ability/reckless"
@@ -36121,7 +36121,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/leaf-guard",
       "/ability/regenerator"
@@ -36188,7 +36188,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/motor-drive",
       "/ability/vital-spirit"
     ],
@@ -36253,7 +36253,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flame-body",
       "/ability/vital-spirit"
     ],
@@ -36319,7 +36319,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hustle",
       "/ability/serene-grace",
       "/ability/super-luck"
@@ -36382,7 +36382,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/speed-boost",
       "/ability/tinted-lens",
       "/ability/frisk"
@@ -36479,7 +36479,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/leaf-guard",
       "/ability/chlorophyll"
     ],
@@ -36574,7 +36574,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/snow-cloak",
       "/ability/ice-body"
     ],
@@ -36635,7 +36635,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hyper-cutter",
       "/ability/sand-veil",
       "/ability/poison-heal"
@@ -36703,7 +36703,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/oblivious",
       "/ability/snow-cloak",
       "/ability/thick-fat"
@@ -36770,7 +36770,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/adaptability",
       "/ability/download",
       "/ability/analytic"
@@ -36843,7 +36843,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/steadfast",
       "/ability/sharpness",
       "/ability/justified",
@@ -36908,7 +36908,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/magnet-pull",
       "/ability/sand-force"
@@ -36975,7 +36975,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/frisk"
     ],
@@ -37041,7 +37041,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/snow-cloak",
       "/ability/cursed-body"
     ],
@@ -37097,7 +37097,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate",
       "/ability/levitate",
       "/ability/levitate",
@@ -37155,7 +37155,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -37208,7 +37208,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -37261,7 +37261,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -37315,7 +37315,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/telepathy",
       "/ability/pressure",
@@ -37373,7 +37373,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/telepathy",
       "/ability/pressure",
@@ -37431,7 +37431,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flash-fire",
       "/ability/flame-body"
     ],
@@ -37486,7 +37486,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/slow-start"
     ],
     "abilities": {
@@ -37540,7 +37540,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/telepathy",
       "/ability/levitate"
@@ -37597,7 +37597,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -37650,7 +37650,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hydration"
     ],
     "abilities": {
@@ -37703,7 +37703,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hydration"
     ],
     "abilities": {
@@ -37756,7 +37756,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/bad-dreams"
     ],
     "abilities": {
@@ -37809,7 +37809,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/natural-cure",
       "/ability/serene-grace"
     ],
@@ -37864,7 +37864,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/multitype"
     ],
     "abilities": {
@@ -37918,7 +37918,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/victory-star"
     ],
     "abilities": {
@@ -38005,7 +38005,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/contrary"
     ],
@@ -38094,7 +38094,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/contrary"
     ],
@@ -38159,7 +38159,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/contrary"
     ],
@@ -38248,7 +38248,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/thick-fat"
     ],
@@ -38338,7 +38338,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/thick-fat"
     ],
@@ -38404,7 +38404,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/reckless"
     ],
@@ -38493,7 +38493,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/shell-armor"
     ],
@@ -38582,7 +38582,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/shell-armor"
     ],
@@ -38647,7 +38647,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/shell-armor",
       "/ability/torrent",
@@ -38734,7 +38734,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/keen-eye",
       "/ability/analytic"
@@ -38796,7 +38796,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/illuminate",
       "/ability/keen-eye",
       "/ability/analytic"
@@ -38887,7 +38887,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/vital-spirit",
       "/ability/pickup",
       "/ability/run-away"
@@ -38978,7 +38978,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/sand-rush",
       "/ability/scrappy"
@@ -39045,7 +39045,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/sand-rush",
       "/ability/scrappy"
@@ -39131,7 +39131,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/limber",
       "/ability/unburden",
       "/ability/prankster"
@@ -39193,7 +39193,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/limber",
       "/ability/unburden",
       "/ability/prankster"
@@ -39279,7 +39279,7 @@
         "item_link": "https://pokemondb.net/item/leaf-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/gluttony",
       "/ability/overgrow"
     ],
@@ -39339,7 +39339,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/gluttony",
       "/ability/overgrow"
     ],
@@ -39423,7 +39423,7 @@
         "item_link": "https://pokemondb.net/item/fire-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/gluttony",
       "/ability/blaze"
     ],
@@ -39483,7 +39483,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/gluttony",
       "/ability/blaze"
     ],
@@ -39567,7 +39567,7 @@
         "item_link": "https://pokemondb.net/item/water-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/gluttony",
       "/ability/torrent"
     ],
@@ -39627,7 +39627,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/gluttony",
       "/ability/torrent"
     ],
@@ -39711,7 +39711,7 @@
         "item_link": "https://pokemondb.net/item/moon-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/forewarn",
       "/ability/synchronize",
       "/ability/telepathy"
@@ -39773,7 +39773,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/forewarn",
       "/ability/synchronize",
       "/ability/telepathy"
@@ -39865,7 +39865,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/big-pecks",
       "/ability/super-luck",
       "/ability/rivalry"
@@ -39957,7 +39957,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/big-pecks",
       "/ability/super-luck",
       "/ability/rivalry"
@@ -40025,7 +40025,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/big-pecks",
       "/ability/super-luck",
       "/ability/rivalry"
@@ -40111,7 +40111,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/lightning-rod",
       "/ability/motor-drive",
       "/ability/sap-sipper"
@@ -40173,7 +40173,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/lightning-rod",
       "/ability/motor-drive",
       "/ability/sap-sipper"
@@ -40264,7 +40264,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/weak-armor",
       "/ability/sand-force"
@@ -40355,7 +40355,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/weak-armor",
       "/ability/sand-force"
@@ -40422,7 +40422,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/sand-stream",
       "/ability/sand-force"
@@ -40509,7 +40509,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/unaware",
       "/ability/klutz",
       "/ability/simple"
@@ -40572,7 +40572,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/unaware",
       "/ability/klutz",
       "/ability/simple"
@@ -40658,7 +40658,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-rush",
       "/ability/sand-force",
       "/ability/mold-breaker"
@@ -40721,7 +40721,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-rush",
       "/ability/sand-force",
       "/ability/mold-breaker"
@@ -40778,7 +40778,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/healer",
       "/ability/regenerator",
       "/ability/klutz",
@@ -40870,7 +40870,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/sheer-force",
       "/ability/iron-fist"
@@ -40961,7 +40961,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/sheer-force",
       "/ability/iron-fist"
@@ -41028,7 +41028,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/sheer-force",
       "/ability/iron-fist"
@@ -41119,7 +41119,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/hydration",
       "/ability/water-absorb"
@@ -41211,7 +41211,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/hydration",
       "/ability/water-absorb"
@@ -41279,7 +41279,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/poison-touch",
       "/ability/water-absorb"
@@ -41336,7 +41336,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/inner-focus",
       "/ability/mold-breaker"
@@ -41393,7 +41393,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/inner-focus",
       "/ability/mold-breaker"
@@ -41485,7 +41485,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/chlorophyll",
       "/ability/overcoat"
@@ -41577,7 +41577,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/leaf-guard",
       "/ability/chlorophyll",
       "/ability/overcoat"
@@ -41645,7 +41645,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/chlorophyll",
       "/ability/overcoat"
@@ -41737,7 +41737,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/swarm",
       "/ability/speed-boost"
@@ -41829,7 +41829,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/swarm",
       "/ability/speed-boost"
@@ -41897,7 +41897,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/swarm",
       "/ability/speed-boost"
@@ -41984,7 +41984,7 @@
         "item_link": "https://pokemondb.net/item/sun-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/prankster",
       "/ability/infiltrator",
       "/ability/chlorophyll"
@@ -42047,7 +42047,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/prankster",
       "/ability/infiltrator",
       "/ability/chlorophyll"
@@ -42149,7 +42149,7 @@
         "item_link": "https://pokemondb.net/item/sun-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/own-tempo",
       "/ability/leaf-guard"
@@ -42211,7 +42211,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/own-tempo",
       "/ability/leaf-guard",
@@ -42317,7 +42317,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/reckless",
       "/ability/adaptability",
       "/ability/mold-breaker",
@@ -42417,7 +42417,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/moxie",
       "/ability/anger-point"
@@ -42509,7 +42509,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/moxie",
       "/ability/anger-point"
@@ -42577,7 +42577,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/moxie",
       "/ability/anger-point"
@@ -42679,7 +42679,7 @@
         "item_link": "https://pokemondb.net/item/ice-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hustle",
       "/ability/inner-focus",
       "/ability/hustle",
@@ -42741,7 +42741,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sheer-force",
       "/ability/zen-mode",
       "/ability/sheer-force",
@@ -42803,7 +42803,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-absorb",
       "/ability/chlorophyll",
       "/ability/storm-drain"
@@ -42890,7 +42890,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/shell-armor",
       "/ability/weak-armor"
@@ -42953,7 +42953,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy",
       "/ability/shell-armor",
       "/ability/weak-armor"
@@ -43040,7 +43040,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin",
       "/ability/moxie",
       "/ability/intimidate"
@@ -43103,7 +43103,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin",
       "/ability/moxie",
       "/ability/intimidate"
@@ -43161,7 +43161,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/wonder-skin",
       "/ability/magic-guard",
       "/ability/tinted-lens"
@@ -43268,7 +43268,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/mummy",
       "/ability/wandering-spirit"
     ],
@@ -43333,7 +43333,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/mummy"
     ],
     "abilities": {
@@ -43416,7 +43416,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/solid-rock",
       "/ability/sturdy",
       "/ability/swift-swim"
@@ -43479,7 +43479,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/solid-rock",
       "/ability/sturdy",
       "/ability/swift-swim"
@@ -43566,7 +43566,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/defeatist"
     ],
     "abilities": {
@@ -43625,7 +43625,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/defeatist"
     ],
     "abilities": {
@@ -43707,7 +43707,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/stench",
       "/ability/sticky-hold",
       "/ability/aftermath"
@@ -43769,7 +43769,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/stench",
       "/ability/weak-armor",
       "/ability/aftermath"
@@ -43855,7 +43855,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/illusion",
       "/ability/illusion"
     ],
@@ -43914,7 +43914,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/illusion",
       "/ability/illusion"
     ],
@@ -43997,7 +43997,7 @@
         "item_link": "https://pokemondb.net/item/shiny-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/technician",
       "/ability/skill-link"
@@ -44059,7 +44059,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/technician",
       "/ability/skill-link"
@@ -44150,7 +44150,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/frisk",
       "/ability/competitive",
       "/ability/shadow-tag"
@@ -44241,7 +44241,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/frisk",
       "/ability/competitive",
       "/ability/shadow-tag"
@@ -44308,7 +44308,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/frisk",
       "/ability/competitive",
       "/ability/shadow-tag"
@@ -44399,7 +44399,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overcoat",
       "/ability/magic-guard",
       "/ability/regenerator"
@@ -44490,7 +44490,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overcoat",
       "/ability/magic-guard",
       "/ability/regenerator"
@@ -44557,7 +44557,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overcoat",
       "/ability/magic-guard",
       "/ability/regenerator"
@@ -44644,7 +44644,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/big-pecks",
       "/ability/hydration"
@@ -44707,7 +44707,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/big-pecks",
       "/ability/hydration"
@@ -44798,7 +44798,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/ice-body",
       "/ability/snow-cloak",
       "/ability/weak-armor"
@@ -44889,7 +44889,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/ice-body",
       "/ability/snow-cloak",
       "/ability/weak-armor"
@@ -44956,7 +44956,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/ice-body",
       "/ability/snow-warning",
       "/ability/weak-armor"
@@ -45043,7 +45043,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/sap-sipper",
       "/ability/serene-grace"
@@ -45106,7 +45106,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/sap-sipper",
       "/ability/serene-grace"
@@ -45164,7 +45164,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/motor-drive"
     ],
@@ -45248,7 +45248,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/shed-skin",
       "/ability/no-guard"
@@ -45311,7 +45311,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/shell-armor",
       "/ability/overcoat"
@@ -45398,7 +45398,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/effect-spore",
       "/ability/regenerator"
     ],
@@ -45459,7 +45459,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/effect-spore",
       "/ability/regenerator"
     ],
@@ -45544,7 +45544,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-absorb",
       "/ability/cursed-body",
       "/ability/damp"
@@ -45607,7 +45607,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-absorb",
       "/ability/cursed-body",
       "/ability/damp"
@@ -45664,7 +45664,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/healer",
       "/ability/hydration",
       "/ability/regenerator"
@@ -45751,7 +45751,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/compound-eyes",
       "/ability/unnerve",
       "/ability/swarm"
@@ -45814,7 +45814,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/compound-eyes",
       "/ability/unnerve",
       "/ability/swarm"
@@ -45901,7 +45901,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/iron-barbs"
     ],
     "abilities": {
@@ -45960,7 +45960,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/iron-barbs",
       "/ability/anticipation"
     ],
@@ -46049,7 +46049,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/plus",
       "/ability/minus",
       "/ability/clear-body"
@@ -46140,7 +46140,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/plus",
       "/ability/minus",
       "/ability/clear-body"
@@ -46207,7 +46207,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/plus",
       "/ability/minus",
       "/ability/clear-body"
@@ -46298,7 +46298,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -46385,7 +46385,7 @@
         "item_link": "https://pokemondb.net/item/thunder-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -46448,7 +46448,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -46530,7 +46530,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/telepathy",
       "/ability/synchronize",
       "/ability/analytic"
@@ -46592,7 +46592,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/telepathy",
       "/ability/synchronize",
       "/ability/analytic"
@@ -46684,7 +46684,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flash-fire",
       "/ability/flame-body",
       "/ability/infiltrator"
@@ -46776,7 +46776,7 @@
         "item_link": "https://pokemondb.net/item/dusk-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flash-fire",
       "/ability/flame-body",
       "/ability/infiltrator"
@@ -46844,7 +46844,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flash-fire",
       "/ability/flame-body",
       "/ability/infiltrator"
@@ -46935,7 +46935,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rivalry",
       "/ability/mold-breaker",
       "/ability/unnerve"
@@ -47026,7 +47026,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rivalry",
       "/ability/mold-breaker",
       "/ability/unnerve"
@@ -47093,7 +47093,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rivalry",
       "/ability/mold-breaker",
       "/ability/unnerve"
@@ -47179,7 +47179,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/snow-cloak",
       "/ability/slush-rush",
       "/ability/rattled"
@@ -47241,7 +47241,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/snow-cloak",
       "/ability/slush-rush",
       "/ability/swift-swim"
@@ -47298,7 +47298,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -47380,7 +47380,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hydration",
       "/ability/shell-armor",
       "/ability/overcoat"
@@ -47442,7 +47442,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hydration",
       "/ability/sticky-hold",
       "/ability/unburden"
@@ -47500,7 +47500,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/limber",
       "/ability/sand-veil",
@@ -47588,7 +47588,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus",
       "/ability/regenerator",
       "/ability/reckless"
@@ -47650,7 +47650,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus",
       "/ability/regenerator",
       "/ability/reckless"
@@ -47707,7 +47707,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rough-skin",
       "/ability/sheer-force",
       "/ability/mold-breaker"
@@ -47794,7 +47794,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/iron-fist",
       "/ability/klutz",
       "/ability/no-guard"
@@ -47857,7 +47857,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/iron-fist",
       "/ability/klutz",
       "/ability/no-guard"
@@ -47949,7 +47949,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/defiant",
       "/ability/inner-focus",
       "/ability/pressure"
@@ -48041,7 +48041,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/defiant",
       "/ability/inner-focus",
       "/ability/pressure"
@@ -48098,7 +48098,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/reckless",
       "/ability/sap-sipper",
       "/ability/soundproof"
@@ -48185,7 +48185,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/sheer-force",
       "/ability/hustle"
@@ -48248,7 +48248,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/sheer-force",
       "/ability/defiant",
@@ -48339,7 +48339,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/big-pecks",
       "/ability/overcoat",
       "/ability/weak-armor"
@@ -48402,7 +48402,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/big-pecks",
       "/ability/overcoat",
       "/ability/weak-armor"
@@ -48459,7 +48459,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/gluttony",
       "/ability/flash-fire",
       "/ability/white-smoke"
@@ -48517,7 +48517,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/hustle",
       "/ability/truant"
@@ -48609,7 +48609,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hustle"
     ],
     "abilities": {
@@ -48697,7 +48697,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hustle"
     ],
     "abilities": {
@@ -48761,7 +48761,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -48844,7 +48844,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flame-body",
       "/ability/swarm"
     ],
@@ -48905,7 +48905,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flame-body",
       "/ability/swarm"
     ],
@@ -48961,7 +48961,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/justified"
     ],
     "abilities": {
@@ -49015,7 +49015,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/justified"
     ],
     "abilities": {
@@ -49069,7 +49069,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/justified"
     ],
     "abilities": {
@@ -49122,7 +49122,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/prankster",
       "/ability/defiant",
       "/ability/regenerator"
@@ -49180,7 +49180,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/prankster",
       "/ability/defiant",
       "/ability/volt-absorb"
@@ -49238,7 +49238,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/turboblaze"
     ],
     "abilities": {
@@ -49292,7 +49292,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/teravolt"
     ],
     "abilities": {
@@ -49346,7 +49346,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-force",
       "/ability/sheer-force",
       "/ability/intimidate"
@@ -49404,7 +49404,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/turboblaze",
       "/ability/teravolt"
@@ -49462,7 +49462,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/justified",
       "/ability/justified"
     ],
@@ -49517,7 +49517,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/serene-grace",
       "/ability/serene-grace"
     ],
@@ -49572,7 +49572,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/download"
     ],
     "abilities": {
@@ -49659,7 +49659,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/bulletproof"
     ],
@@ -49748,7 +49748,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/bulletproof"
     ],
@@ -49814,7 +49814,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/bulletproof"
     ],
@@ -49903,7 +49903,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/magician"
     ],
@@ -49992,7 +49992,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/magician"
     ],
@@ -50058,7 +50058,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/magician"
     ],
@@ -50147,7 +50147,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/protean"
     ],
@@ -50236,7 +50236,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/protean"
     ],
@@ -50302,7 +50302,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/protean",
       "/ability/battle-bond"
@@ -50388,7 +50388,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pickup",
       "/ability/cheek-pouch",
       "/ability/huge-power"
@@ -50451,7 +50451,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pickup",
       "/ability/cheek-pouch",
       "/ability/huge-power"
@@ -50543,7 +50543,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/big-pecks",
       "/ability/gale-wings"
     ],
@@ -50633,7 +50633,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flame-body",
       "/ability/gale-wings"
     ],
@@ -50699,7 +50699,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flame-body",
       "/ability/gale-wings"
     ],
@@ -50788,7 +50788,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shield-dust",
       "/ability/compound-eyes",
       "/ability/friend-guard"
@@ -50879,7 +50879,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin",
       "/ability/friend-guard"
     ],
@@ -50945,7 +50945,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shield-dust",
       "/ability/compound-eyes",
       "/ability/friend-guard"
@@ -51032,7 +51032,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rivalry",
       "/ability/unnerve",
       "/ability/moxie"
@@ -51095,7 +51095,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rivalry",
       "/ability/unnerve",
       "/ability/moxie"
@@ -51186,7 +51186,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flower-veil",
       "/ability/symbiosis"
     ],
@@ -51275,7 +51275,7 @@
         "item_link": "https://pokemondb.net/item/shiny-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flower-veil",
       "/ability/symbiosis"
     ],
@@ -51340,7 +51340,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flower-veil",
       "/ability/symbiosis"
     ],
@@ -51424,7 +51424,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sap-sipper",
       "/ability/grass-pelt"
     ],
@@ -51484,7 +51484,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sap-sipper",
       "/ability/grass-pelt"
     ],
@@ -51568,7 +51568,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/iron-fist",
       "/ability/mold-breaker",
       "/ability/scrappy"
@@ -51631,7 +51631,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/iron-fist",
       "/ability/mold-breaker",
       "/ability/scrappy"
@@ -51688,7 +51688,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/fur-coat"
     ],
     "abilities": {
@@ -51770,7 +51770,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/infiltrator",
       "/ability/own-tempo"
@@ -51832,7 +51832,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/infiltrator",
       "/ability/prankster",
@@ -51928,7 +51928,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/no-guard"
     ],
     "abilities": {
@@ -52016,7 +52016,7 @@
         "item_link": "https://pokemondb.net/item/dusk-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/no-guard"
     ],
     "abilities": {
@@ -52080,7 +52080,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/stance-change",
       "/ability/stance-change"
     ],
@@ -52163,7 +52163,7 @@
         "item_link": "https://pokemondb.net/item/sachet"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/healer",
       "/ability/aroma-veil"
     ],
@@ -52223,7 +52223,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/healer",
       "/ability/aroma-veil"
     ],
@@ -52307,7 +52307,7 @@
         "item_link": "https://pokemondb.net/item/whipped-dream"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sweet-veil",
       "/ability/unburden"
     ],
@@ -52367,7 +52367,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sweet-veil",
       "/ability/unburden"
     ],
@@ -52452,7 +52452,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/contrary",
       "/ability/suction-cups",
       "/ability/infiltrator"
@@ -52515,7 +52515,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/contrary",
       "/ability/suction-cups",
       "/ability/infiltrator"
@@ -52602,7 +52602,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sniper",
       "/ability/tough-claws",
       "/ability/pickpocket"
@@ -52665,7 +52665,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sniper",
       "/ability/tough-claws",
       "/ability/pickpocket"
@@ -52752,7 +52752,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/poison-touch",
       "/ability/adaptability"
@@ -52815,7 +52815,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/poison-touch",
       "/ability/adaptability"
@@ -52901,7 +52901,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/mega-launcher"
     ],
     "abilities": {
@@ -52959,7 +52959,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/mega-launcher"
     ],
     "abilities": {
@@ -53042,7 +53042,7 @@
         "item_link": "https://pokemondb.net/item/sun-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/dry-skin",
       "/ability/sand-veil",
       "/ability/solar-power"
@@ -53105,7 +53105,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/dry-skin",
       "/ability/sand-veil",
       "/ability/solar-power"
@@ -53192,7 +53192,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/strong-jaw",
       "/ability/sturdy"
     ],
@@ -53253,7 +53253,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/strong-jaw",
       "/ability/rock-head"
     ],
@@ -53338,7 +53338,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/refrigerate",
       "/ability/snow-warning"
     ],
@@ -53399,7 +53399,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/refrigerate",
       "/ability/snow-warning"
     ],
@@ -53494,7 +53494,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/pixilate"
     ],
@@ -53550,7 +53550,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/limber",
       "/ability/unburden",
       "/ability/mold-breaker"
@@ -53608,7 +53608,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cheek-pouch",
       "/ability/pickup",
       "/ability/plus"
@@ -53666,7 +53666,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/sturdy"
     ],
@@ -53771,7 +53771,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sap-sipper",
       "/ability/hydration",
       "/ability/gooey"
@@ -53838,7 +53838,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sap-sipper",
       "/ability/hydration",
       "/ability/gooey",
@@ -53909,7 +53909,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sap-sipper",
       "/ability/hydration",
       "/ability/gooey",
@@ -53971,7 +53971,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/prankster",
       "/ability/magician"
     ],
@@ -54056,7 +54056,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/natural-cure",
       "/ability/frisk",
       "/ability/harvest"
@@ -54119,7 +54119,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/natural-cure",
       "/ability/frisk",
       "/ability/harvest"
@@ -54206,7 +54206,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pickup",
       "/ability/frisk",
       "/ability/insomnia",
@@ -54278,7 +54278,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pickup",
       "/ability/frisk",
       "/ability/insomnia",
@@ -54373,7 +54373,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/own-tempo",
       "/ability/ice-body",
       "/ability/sturdy"
@@ -54435,7 +54435,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/own-tempo",
       "/ability/ice-body",
       "/ability/sturdy",
@@ -54526,7 +54526,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/frisk",
       "/ability/infiltrator",
       "/ability/telepathy"
@@ -54589,7 +54589,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/frisk",
       "/ability/infiltrator",
       "/ability/telepathy"
@@ -54646,7 +54646,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/fairy-aura"
     ],
     "abilities": {
@@ -54700,7 +54700,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/dark-aura"
     ],
     "abilities": {
@@ -54754,7 +54754,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/aura-break",
       "/ability/power-construct",
       "/ability/aura-break",
@@ -54813,7 +54813,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/magic-bounce"
     ],
@@ -54869,7 +54869,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/magician",
       "/ability/magician"
     ],
@@ -54924,7 +54924,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-absorb"
     ],
     "abilities": {
@@ -55012,7 +55012,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/long-reach"
     ],
@@ -55118,7 +55118,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/long-reach"
     ],
@@ -55184,7 +55184,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/long-reach",
       "/ability/overgrow",
@@ -55276,7 +55276,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/intimidate"
     ],
@@ -55365,7 +55365,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/intimidate"
     ],
@@ -55431,7 +55431,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/intimidate"
     ],
@@ -55520,7 +55520,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/liquid-voice"
     ],
@@ -55609,7 +55609,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/liquid-voice"
     ],
@@ -55675,7 +55675,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/liquid-voice"
     ],
@@ -55765,7 +55765,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/skill-link",
       "/ability/pickup"
@@ -55857,7 +55857,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/skill-link",
       "/ability/pickup"
@@ -55925,7 +55925,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/skill-link",
       "/ability/sheer-force"
@@ -56011,7 +56011,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/strong-jaw",
       "/ability/stakeout",
       "/ability/adaptability"
@@ -56073,7 +56073,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/strong-jaw",
       "/ability/stakeout",
       "/ability/adaptability"
@@ -56164,7 +56164,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm"
     ],
     "abilities": {
@@ -56252,7 +56252,7 @@
         "item_link": "https://pokemondb.net/item/thunder-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/battery"
     ],
     "abilities": {
@@ -56316,7 +56316,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/levitate"
     ],
     "abilities": {
@@ -56398,7 +56398,7 @@
         "item_link": "https://pokemondb.net/item/ice-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hyper-cutter",
       "/ability/iron-fist",
       "/ability/anger-point"
@@ -56461,7 +56461,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hyper-cutter",
       "/ability/iron-fist",
       "/ability/anger-point"
@@ -56519,7 +56519,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/dancer",
       "/ability/dancer",
       "/ability/dancer",
@@ -56605,7 +56605,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/honey-gather",
       "/ability/shield-dust",
       "/ability/sweet-veil"
@@ -56668,7 +56668,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/honey-gather",
       "/ability/shield-dust",
       "/ability/sweet-veil"
@@ -56754,7 +56754,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/vital-spirit",
       "/ability/steadfast",
@@ -56818,7 +56818,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/sand-rush",
       "/ability/steadfast",
@@ -56882,7 +56882,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/schooling",
       "/ability/schooling"
     ],
@@ -56966,7 +56966,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/merciless",
       "/ability/limber",
       "/ability/regenerator"
@@ -57029,7 +57029,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/merciless",
       "/ability/limber",
       "/ability/regenerator"
@@ -57115,7 +57115,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/own-tempo",
       "/ability/stamina",
       "/ability/inner-focus"
@@ -57177,7 +57177,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/own-tempo",
       "/ability/stamina",
       "/ability/inner-focus"
@@ -57264,7 +57264,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-bubble",
       "/ability/water-absorb"
     ],
@@ -57325,7 +57325,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-bubble",
       "/ability/water-absorb"
     ],
@@ -57409,7 +57409,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/leaf-guard",
       "/ability/contrary"
     ],
@@ -57469,7 +57469,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/leaf-guard",
       "/ability/contrary"
     ],
@@ -57554,7 +57554,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/illuminate",
       "/ability/effect-spore",
       "/ability/rain-dish"
@@ -57617,7 +57617,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/illuminate",
       "/ability/effect-spore",
       "/ability/rain-dish"
@@ -57704,7 +57704,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/corrosion",
       "/ability/oblivious"
     ],
@@ -57765,7 +57765,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/corrosion",
       "/ability/oblivious"
     ],
@@ -57850,7 +57850,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/fluffy",
       "/ability/klutz",
       "/ability/cute-charm"
@@ -57913,7 +57913,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/fluffy",
       "/ability/klutz",
       "/ability/unnerve"
@@ -58004,7 +58004,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/leaf-guard",
       "/ability/oblivious",
       "/ability/sweet-veil"
@@ -58095,7 +58095,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/leaf-guard",
       "/ability/oblivious",
       "/ability/sweet-veil"
@@ -58162,7 +58162,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/leaf-guard",
       "/ability/queenly-majesty",
       "/ability/sweet-veil"
@@ -58219,7 +58219,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flower-veil",
       "/ability/triage",
       "/ability/natural-cure"
@@ -58277,7 +58277,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus",
       "/ability/telepathy",
       "/ability/symbiosis"
@@ -58334,7 +58334,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/receiver",
       "/ability/defiant"
     ],
@@ -58419,7 +58419,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/wimp-out"
     ],
     "abilities": {
@@ -58478,7 +58478,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/emergency-exit"
     ],
     "abilities": {
@@ -58561,7 +58561,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-compaction",
       "/ability/sand-veil"
     ],
@@ -58622,7 +58622,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-compaction",
       "/ability/sand-veil"
     ],
@@ -58677,7 +58677,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/innards-out",
       "/ability/unaware"
     ],
@@ -58761,7 +58761,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/battle-armor"
     ],
     "abilities": {
@@ -58819,7 +58819,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rks-system"
     ],
     "abilities": {
@@ -58873,7 +58873,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shields-down",
       "/ability/shields-down"
     ],
@@ -58927,7 +58927,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/comatose"
     ],
     "abilities": {
@@ -58981,7 +58981,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shell-armor"
     ],
     "abilities": {
@@ -59035,7 +59035,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/iron-barbs",
       "/ability/lightning-rod",
       "/ability/sturdy"
@@ -59093,7 +59093,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/disguise"
     ],
     "abilities": {
@@ -59147,7 +59147,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/dazzling",
       "/ability/strong-jaw",
       "/ability/wonder-skin"
@@ -59205,7 +59205,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/berserk",
       "/ability/sap-sipper",
       "/ability/cloud-nine"
@@ -59263,7 +59263,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/steelworker"
     ],
     "abilities": {
@@ -59350,7 +59350,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/bulletproof",
       "/ability/soundproof",
       "/ability/overcoat"
@@ -59442,7 +59442,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/bulletproof",
       "/ability/soundproof",
       "/ability/overcoat"
@@ -59510,7 +59510,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/bulletproof",
       "/ability/soundproof",
       "/ability/overcoat"
@@ -59568,7 +59568,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/electric-surge",
       "/ability/telepathy"
     ],
@@ -59624,7 +59624,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/psychic-surge",
       "/ability/telepathy"
     ],
@@ -59680,7 +59680,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/grassy-surge",
       "/ability/telepathy"
     ],
@@ -59736,7 +59736,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/misty-surge",
       "/ability/telepathy"
     ],
@@ -59830,7 +59830,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/unaware"
     ],
     "abilities": {
@@ -59938,7 +59938,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sturdy"
     ],
     "abilities": {
@@ -60007,7 +60007,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/full-metal-body"
     ],
     "abilities": {
@@ -60076,7 +60076,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shadow-shield"
     ],
     "abilities": {
@@ -60130,7 +60130,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/beast-boost"
     ],
     "abilities": {
@@ -60184,7 +60184,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/beast-boost"
     ],
     "abilities": {
@@ -60238,7 +60238,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/beast-boost"
     ],
     "abilities": {
@@ -60291,7 +60291,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/beast-boost"
     ],
     "abilities": {
@@ -60345,7 +60345,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/beast-boost"
     ],
     "abilities": {
@@ -60399,7 +60399,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/beast-boost"
     ],
     "abilities": {
@@ -60453,7 +60453,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/beast-boost"
     ],
     "abilities": {
@@ -60506,7 +60506,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/prism-armor",
       "/ability/prism-armor",
       "/ability/prism-armor",
@@ -60564,7 +60564,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/soul-heart"
     ],
     "abilities": {
@@ -60618,7 +60618,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/technician"
     ],
     "abilities": {
@@ -60700,7 +60700,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/beast-boost"
     ],
     "abilities": {
@@ -60759,7 +60759,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/beast-boost"
     ],
     "abilities": {
@@ -60813,7 +60813,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/beast-boost"
     ],
     "abilities": {
@@ -60867,7 +60867,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/beast-boost"
     ],
     "abilities": {
@@ -60920,7 +60920,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/volt-absorb"
     ],
     "abilities": {
@@ -61002,7 +61002,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/magnet-pull"
     ],
     "abilities": {
@@ -61060,7 +61060,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/iron-fist"
     ],
     "abilities": {
@@ -61147,7 +61147,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/grassy-surge"
     ],
@@ -61236,7 +61236,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/grassy-surge"
     ],
@@ -61301,7 +61301,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/grassy-surge"
     ],
@@ -61390,7 +61390,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/libero"
     ],
@@ -61479,7 +61479,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/libero"
     ],
@@ -61544,7 +61544,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/libero"
     ],
@@ -61633,7 +61633,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/sniper"
     ],
@@ -61722,7 +61722,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/sniper"
     ],
@@ -61787,7 +61787,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/sniper"
     ],
@@ -61871,7 +61871,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cheek-pouch",
       "/ability/gluttony"
     ],
@@ -61931,7 +61931,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cheek-pouch",
       "/ability/gluttony"
     ],
@@ -62020,7 +62020,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/unnerve",
       "/ability/big-pecks"
@@ -62111,7 +62111,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/keen-eye",
       "/ability/unnerve",
       "/ability/big-pecks"
@@ -62179,7 +62179,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/unnerve",
       "/ability/mirror-armor"
@@ -62270,7 +62270,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/compound-eyes",
       "/ability/telepathy"
@@ -62362,7 +62362,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/compound-eyes",
       "/ability/telepathy"
@@ -62430,7 +62430,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/frisk",
       "/ability/telepathy"
@@ -62516,7 +62516,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/unburden",
       "/ability/stakeout"
@@ -62578,7 +62578,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/unburden",
       "/ability/stakeout"
@@ -62664,7 +62664,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cotton-down",
       "/ability/regenerator",
       "/ability/effect-spore"
@@ -62726,7 +62726,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cotton-down",
       "/ability/regenerator",
       "/ability/effect-spore"
@@ -62812,7 +62812,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/fluffy",
       "/ability/run-away",
       "/ability/bulletproof"
@@ -62874,7 +62874,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/fluffy",
       "/ability/steadfast",
       "/ability/bulletproof"
@@ -62960,7 +62960,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/strong-jaw",
       "/ability/shell-armor",
       "/ability/swift-swim"
@@ -63023,7 +63023,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/strong-jaw",
       "/ability/shell-armor",
       "/ability/swift-swim"
@@ -63109,7 +63109,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/ball-fetch",
       "/ability/rattled"
     ],
@@ -63169,7 +63169,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/strong-jaw",
       "/ability/competitive"
     ],
@@ -63258,7 +63258,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/steam-engine",
       "/ability/heatproof",
       "/ability/flash-fire"
@@ -63350,7 +63350,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/steam-engine",
       "/ability/flame-body",
       "/ability/flash-fire"
@@ -63418,7 +63418,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/steam-engine",
       "/ability/flame-body",
       "/ability/flash-fire"
@@ -63568,7 +63568,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/ripen",
       "/ability/gluttony",
       "/ability/bulletproof"
@@ -63646,7 +63646,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/ripen",
       "/ability/gluttony",
       "/ability/hustle"
@@ -63724,7 +63724,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/ripen",
       "/ability/gluttony",
       "/ability/thick-fat"
@@ -63810,7 +63810,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-spit",
       "/ability/shed-skin",
       "/ability/sand-veil"
@@ -63872,7 +63872,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-spit",
       "/ability/shed-skin",
       "/ability/sand-veil"
@@ -63930,7 +63930,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/gulp-missile"
     ],
     "abilities": {
@@ -64012,7 +64012,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/propeller-tail"
     ],
@@ -64072,7 +64072,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/propeller-tail"
     ],
@@ -64157,7 +64157,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rattled",
       "/ability/static",
       "/ability/klutz"
@@ -64220,7 +64220,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/punk-rock",
       "/ability/plus",
       "/ability/technician",
@@ -64311,7 +64311,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flash-fire",
       "/ability/white-smoke",
       "/ability/flame-body"
@@ -64374,7 +64374,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flash-fire",
       "/ability/white-smoke",
       "/ability/flame-body"
@@ -64460,7 +64460,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/limber",
       "/ability/technician"
     ],
@@ -64520,7 +64520,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/limber",
       "/ability/technician"
     ],
@@ -64604,7 +64604,7 @@
         "item_link": "https://pokemondb.net/item/cracked-pot"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/weak-armor",
       "/ability/cursed-body"
     ],
@@ -64664,7 +64664,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/weak-armor",
       "/ability/cursed-body"
     ],
@@ -64753,7 +64753,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/healer",
       "/ability/anticipation",
       "/ability/magic-bounce"
@@ -64844,7 +64844,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/healer",
       "/ability/anticipation",
       "/ability/magic-bounce"
@@ -64912,7 +64912,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/healer",
       "/ability/anticipation",
       "/ability/magic-bounce"
@@ -65004,7 +65004,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/prankster",
       "/ability/frisk",
       "/ability/pickpocket"
@@ -65096,7 +65096,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/prankster",
       "/ability/frisk",
       "/ability/pickpocket"
@@ -65164,7 +65164,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/prankster",
       "/ability/frisk",
       "/ability/pickpocket"
@@ -65232,7 +65232,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/reckless",
       "/ability/guts",
       "/ability/defiant"
@@ -65299,7 +65299,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/battle-armor",
       "/ability/tough-claws",
       "/ability/steely-spirit"
@@ -65361,7 +65361,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/weak-armor",
       "/ability/perish-body"
     ],
@@ -65421,7 +65421,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/steadfast",
       "/ability/scrappy"
     ],
@@ -65487,7 +65487,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/tangled-feet",
       "/ability/screen-cleaner",
       "/ability/ice-body"
@@ -65555,7 +65555,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/wandering-spirit"
     ],
     "abilities": {
@@ -65637,7 +65637,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sweet-veil",
       "/ability/aroma-veil"
     ],
@@ -65697,7 +65697,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sweet-veil",
       "/ability/aroma-veil"
     ],
@@ -65752,7 +65752,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/battle-armor",
       "/ability/defiant"
     ],
@@ -65807,7 +65807,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/lightning-rod",
       "/ability/electric-surge"
     ],
@@ -65892,7 +65892,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shield-dust",
       "/ability/ice-scales"
     ],
@@ -65953,7 +65953,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shield-dust",
       "/ability/ice-scales"
     ],
@@ -66008,7 +66008,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/power-spot"
     ],
     "abilities": {
@@ -66061,7 +66061,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/ice-face",
       "/ability/ice-face"
     ],
@@ -66116,7 +66116,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus",
       "/ability/synchronize",
       "/ability/psychic-surge",
@@ -66178,7 +66178,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hunger-switch",
       "/ability/hunger-switch"
     ],
@@ -66261,7 +66261,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sheer-force",
       "/ability/heavy-metal"
     ],
@@ -66321,7 +66321,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sheer-force",
       "/ability/heavy-metal"
     ],
@@ -66377,7 +66377,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/volt-absorb",
       "/ability/hustle",
       "/ability/sand-rush"
@@ -66435,7 +66435,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/volt-absorb",
       "/ability/static",
       "/ability/slush-rush"
@@ -66493,7 +66493,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-absorb",
       "/ability/strong-jaw",
       "/ability/sand-rush"
@@ -66551,7 +66551,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-absorb",
       "/ability/ice-body",
       "/ability/slush-rush"
@@ -66638,7 +66638,7 @@
         "item_link": "https://pokemondb.net/item/metal-alloy"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/light-metal",
       "/ability/heavy-metal",
       "/ability/stalwart"
@@ -66730,7 +66730,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/infiltrator",
       "/ability/cursed-body"
@@ -66822,7 +66822,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/infiltrator",
       "/ability/cursed-body"
@@ -66890,7 +66890,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/clear-body",
       "/ability/infiltrator",
       "/ability/cursed-body"
@@ -66947,7 +66947,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intrepid-sword",
       "/ability/intrepid-sword"
     ],
@@ -67001,7 +67001,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/dauntless-shield",
       "/ability/dauntless-shield"
     ],
@@ -67056,7 +67056,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure"
     ],
     "abilities": {
@@ -67154,7 +67154,7 @@
         "item_link": "https://pokemondb.net/item/scroll-of-waters"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/inner-focus"
     ],
     "abilities": {
@@ -67213,7 +67213,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/unseen-fist",
       "/ability/unseen-fist"
     ],
@@ -67268,7 +67268,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/leaf-guard"
     ],
     "abilities": {
@@ -67321,7 +67321,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/transistor"
     ],
     "abilities": {
@@ -67374,7 +67374,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/dragons-maw"
     ],
     "abilities": {
@@ -67427,7 +67427,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chilling-neigh"
     ],
     "abilities": {
@@ -67480,7 +67480,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/grim-neigh"
     ],
     "abilities": {
@@ -67534,7 +67534,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/unnerve",
       "/ability/as-one",
       "/ability/as-one"
@@ -67596,7 +67596,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/frisk",
       "/ability/sap-sipper"
@@ -67664,7 +67664,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/sheer-force",
       "/ability/sharpness"
@@ -67732,7 +67732,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/guts",
       "/ability/bulletproof",
       "/ability/unnerve",
@@ -67797,7 +67797,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swift-swim",
       "/ability/adaptability",
       "/ability/mold-breaker",
@@ -67868,7 +67868,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pressure",
       "/ability/unburden",
       "/ability/poison-touch"
@@ -67931,7 +67931,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/swift-swim",
       "/ability/intimidate"
@@ -67989,7 +67989,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cute-charm",
       "/ability/contrary",
       "/ability/overcoat"
@@ -68080,7 +68080,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/protean"
     ],
@@ -68169,7 +68169,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/protean"
     ],
@@ -68235,7 +68235,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overgrow",
       "/ability/protean"
     ],
@@ -68324,7 +68324,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/unaware"
     ],
@@ -68413,7 +68413,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/unaware"
     ],
@@ -68479,7 +68479,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/blaze",
       "/ability/unaware"
     ],
@@ -68568,7 +68568,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/moxie"
     ],
@@ -68657,7 +68657,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/moxie"
     ],
@@ -68723,7 +68723,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/torrent",
       "/ability/moxie"
     ],
@@ -68807,7 +68807,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/aroma-veil",
       "/ability/gluttony",
       "/ability/thick-fat"
@@ -68869,7 +68869,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/lingering-aroma",
       "/ability/gluttony",
       "/ability/thick-fat",
@@ -68959,7 +68959,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/insomnia",
       "/ability/stakeout"
     ],
@@ -69019,7 +69019,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/insomnia",
       "/ability/stakeout"
     ],
@@ -69103,7 +69103,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/tinted-lens"
     ],
@@ -69164,7 +69164,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/swarm",
       "/ability/tinted-lens"
     ],
@@ -69253,7 +69253,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/static",
       "/ability/natural-cure",
       "/ability/iron-fist"
@@ -69345,7 +69345,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/volt-absorb",
       "/ability/natural-cure",
       "/ability/iron-fist"
@@ -69413,7 +69413,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/volt-absorb",
       "/ability/natural-cure",
       "/ability/iron-fist"
@@ -69499,7 +69499,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/run-away",
       "/ability/pickup",
       "/ability/own-tempo"
@@ -69561,7 +69561,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/friend-guard",
       "/ability/cheek-pouch",
       "/ability/technician",
@@ -69650,7 +69650,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/own-tempo",
       "/ability/klutz"
     ],
@@ -69710,7 +69710,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/well-baked-body",
       "/ability/aroma-veil"
     ],
@@ -69800,7 +69800,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/early-bird",
       "/ability/harvest"
     ],
@@ -69890,7 +69890,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/early-bird",
       "/ability/harvest"
     ],
@@ -69956,7 +69956,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/seed-sower",
       "/ability/harvest"
     ],
@@ -70012,7 +70012,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/hustle",
       "/ability/guts",
@@ -70113,7 +70113,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/purifying-salt",
       "/ability/sturdy",
       "/ability/clear-body"
@@ -70204,7 +70204,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/purifying-salt",
       "/ability/sturdy",
       "/ability/clear-body"
@@ -70271,7 +70271,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/purifying-salt",
       "/ability/sturdy",
       "/ability/clear-body"
@@ -70378,7 +70378,7 @@
         "item_link": "https://pokemondb.net/item/malicious-armor"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flash-fire",
       "/ability/flame-body"
     ],
@@ -70444,7 +70444,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flash-fire",
       "/ability/weak-armor"
     ],
@@ -70510,7 +70510,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/flash-fire",
       "/ability/weak-armor"
     ],
@@ -70594,7 +70594,7 @@
         "item_link": "https://pokemondb.net/item/thunder-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/own-tempo",
       "/ability/static",
       "/ability/damp"
@@ -70656,7 +70656,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/electromorphosis",
       "/ability/static",
       "/ability/damp"
@@ -70743,7 +70743,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/wind-power",
       "/ability/volt-absorb",
       "/ability/competitive"
@@ -70806,7 +70806,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/wind-power",
       "/ability/volt-absorb",
       "/ability/competitive"
@@ -70892,7 +70892,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/run-away",
       "/ability/stakeout"
@@ -70954,7 +70954,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/intimidate",
       "/ability/guard-dog",
       "/ability/stakeout"
@@ -71041,7 +71041,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/unburden",
       "/ability/pickpocket",
       "/ability/prankster"
@@ -71104,7 +71104,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/unburden",
       "/ability/poison-touch",
       "/ability/prankster"
@@ -71191,7 +71191,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/wind-rider",
       "/ability/infiltrator"
     ],
@@ -71252,7 +71252,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/wind-rider",
       "/ability/infiltrator"
     ],
@@ -71337,7 +71337,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/mycelium-might"
     ],
     "abilities": {
@@ -71396,7 +71396,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/mycelium-might"
     ],
     "abilities": {
@@ -71449,7 +71449,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/anger-shell",
       "/ability/shell-armor",
       "/ability/regenerator"
@@ -71535,7 +71535,7 @@
         "item_link": "https://pokemondb.net/item/fire-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/insomnia",
       "/ability/klutz"
@@ -71598,7 +71598,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/chlorophyll",
       "/ability/insomnia",
       "/ability/moody"
@@ -71684,7 +71684,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/compound-eyes",
       "/ability/shed-skin"
     ],
@@ -71745,7 +71745,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/synchronize",
       "/ability/telepathy"
     ],
@@ -71829,7 +71829,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/anticipation",
       "/ability/frisk",
       "/ability/speed-boost"
@@ -71891,7 +71891,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/opportunist",
       "/ability/frisk",
       "/ability/speed-boost"
@@ -71983,7 +71983,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/mold-breaker",
       "/ability/own-tempo",
       "/ability/pickpocket"
@@ -72075,7 +72075,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/mold-breaker",
       "/ability/own-tempo",
       "/ability/pickpocket"
@@ -72143,7 +72143,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/mold-breaker",
       "/ability/own-tempo",
       "/ability/pickpocket"
@@ -72229,7 +72229,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/gooey",
       "/ability/rattled",
       "/ability/sand-veil"
@@ -72291,7 +72291,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/gooey",
       "/ability/rattled",
       "/ability/sand-veil"
@@ -72349,7 +72349,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/big-pecks",
       "/ability/keen-eye",
       "/ability/rocky-payload"
@@ -72435,7 +72435,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/water-veil"
     ],
     "abilities": {
@@ -72493,7 +72493,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/zero-to-hero",
       "/ability/zero-to-hero"
     ],
@@ -72577,7 +72577,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overcoat",
       "/ability/slow-start"
     ],
@@ -72638,7 +72638,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/overcoat",
       "/ability/filter"
     ],
@@ -72694,7 +72694,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/shed-skin",
       "/ability/regenerator"
     ],
@@ -72749,7 +72749,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/earth-eater",
       "/ability/sand-veil"
     ],
@@ -72834,7 +72834,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/toxic-debris",
       "/ability/corrosion"
     ],
@@ -72895,7 +72895,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/toxic-debris",
       "/ability/corrosion"
     ],
@@ -72979,7 +72979,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/pickup",
       "/ability/fluffy"
     ],
@@ -73039,7 +73039,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sand-rush",
       "/ability/fluffy"
     ],
@@ -73095,7 +73095,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/scrappy",
       "/ability/tangled-feet",
       "/ability/costar"
@@ -73181,7 +73181,7 @@
         "item_link": "https://pokemondb.net/item/ice-stone"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/snow-cloak",
       "/ability/sheer-force"
@@ -73243,7 +73243,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thick-fat",
       "/ability/slush-rush",
       "/ability/sheer-force"
@@ -73301,7 +73301,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/mold-breaker",
       "/ability/sharpness"
     ],
@@ -73356,7 +73356,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/unaware",
       "/ability/oblivious",
       "/ability/water-veil"
@@ -73414,7 +73414,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/commander",
       "/ability/storm-drain"
     ],
@@ -73480,7 +73480,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/vital-spirit",
       "/ability/inner-focus",
       "/ability/defiant"
@@ -73548,7 +73548,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-point",
       "/ability/water-absorb",
       "/ability/unaware"
@@ -73611,7 +73611,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/cud-chew",
       "/ability/armor-tail",
       "/ability/sap-sipper"
@@ -73673,7 +73673,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/serene-grace",
       "/ability/run-away",
       "/ability/rattled",
@@ -73744,7 +73744,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/defiant",
       "/ability/supreme-overlord",
       "/ability/pressure"
@@ -73802,7 +73802,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/protosynthesis"
     ],
     "abilities": {
@@ -73856,7 +73856,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/protosynthesis"
     ],
     "abilities": {
@@ -73910,7 +73910,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/protosynthesis"
     ],
     "abilities": {
@@ -73964,7 +73964,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/protosynthesis"
     ],
     "abilities": {
@@ -74018,7 +74018,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/protosynthesis"
     ],
     "abilities": {
@@ -74072,7 +74072,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/protosynthesis"
     ],
     "abilities": {
@@ -74126,7 +74126,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/quark-drive"
     ],
     "abilities": {
@@ -74180,7 +74180,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/quark-drive"
     ],
     "abilities": {
@@ -74234,7 +74234,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/quark-drive"
     ],
     "abilities": {
@@ -74288,7 +74288,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/quark-drive"
     ],
     "abilities": {
@@ -74342,7 +74342,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/quark-drive"
     ],
     "abilities": {
@@ -74396,7 +74396,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/quark-drive"
     ],
     "abilities": {
@@ -74484,7 +74484,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thermal-exchange",
       "/ability/ice-body"
     ],
@@ -74574,7 +74574,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thermal-exchange",
       "/ability/ice-body"
     ],
@@ -74640,7 +74640,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/thermal-exchange",
       "/ability/ice-body"
     ],
@@ -74724,7 +74724,7 @@
         "item_link": null
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/rattled",
       "/ability/run-away"
     ],
@@ -74785,7 +74785,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/good-as-gold"
     ],
     "abilities": {
@@ -74839,7 +74839,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/tablets-of-ruin"
     ],
     "abilities": {
@@ -74893,7 +74893,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/sword-of-ruin"
     ],
     "abilities": {
@@ -74947,7 +74947,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/vessel-of-ruin"
     ],
     "abilities": {
@@ -75001,7 +75001,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/beads-of-ruin"
     ],
     "abilities": {
@@ -75055,7 +75055,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/protosynthesis"
     ],
     "abilities": {
@@ -75109,7 +75109,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/quark-drive"
     ],
     "abilities": {
@@ -75163,7 +75163,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/orichalcum-pulse"
     ],
     "abilities": {
@@ -75217,7 +75217,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hadron-engine"
     ],
     "abilities": {
@@ -75271,7 +75271,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/protosynthesis"
     ],
     "abilities": {
@@ -75325,7 +75325,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/quark-drive"
     ],
     "abilities": {
@@ -75399,7 +75399,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/supersweet-syrup",
       "/ability/gluttony",
       "/ability/sticky-hold"
@@ -75486,7 +75486,7 @@
         "item_link": "https://pokemondb.net/item/unremarkable-teacup"
       }
     ],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hospitality",
       "/ability/heatproof"
     ],
@@ -75547,7 +75547,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/hospitality",
       "/ability/heatproof"
     ],
@@ -75603,7 +75603,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/toxic-chain",
       "/ability/guard-dog"
     ],
@@ -75659,7 +75659,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/toxic-chain",
       "/ability/frisk"
     ],
@@ -75715,7 +75715,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/toxic-chain",
       "/ability/technician"
     ],
@@ -75770,7 +75770,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/defiant",
       "/ability/embody-aspect",
       "/ability/water-absorb",
@@ -75840,7 +75840,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/stamina",
       "/ability/sturdy",
       "/ability/stalwart"
@@ -75918,7 +75918,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/supersweet-syrup",
       "/ability/regenerator",
       "/ability/sticky-hold"
@@ -75976,7 +75976,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/protosynthesis"
     ],
     "abilities": {
@@ -76030,7 +76030,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/protosynthesis"
     ],
     "abilities": {
@@ -76084,7 +76084,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/quark-drive"
     ],
     "abilities": {
@@ -76138,7 +76138,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/quark-drive"
     ],
     "abilities": {
@@ -76191,7 +76191,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/tera-shift",
       "/ability/tera-shell",
       "/ability/teraform-zero"
@@ -76249,7 +76249,7 @@
       }
     ],
     "evolutions": [],
-    "abilties_link": [
+    "abilities_link": [
       "/ability/poison-puppeteer"
     ],
     "abilities": {

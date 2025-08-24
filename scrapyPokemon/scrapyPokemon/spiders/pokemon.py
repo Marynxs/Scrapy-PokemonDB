@@ -12,7 +12,7 @@ def format_effectiveness(txt: str) -> str:
                .replace("0", "nulo")
                .replace("2", "super efetivo"))
 
-class PokemonSpokemon_ider(scrapy.Spokemon_ider):
+class PokemonSpider(scrapy.Spider):
     name = "pokemon"
     allowed_domains = ["pokemondb.net"]
     start_urls = ["https://pokemondb.net/pokedex/all"]
@@ -237,7 +237,8 @@ class PokemonSpokemon_ider(scrapy.Spokemon_ider):
     def parse(self, response):
         for pokemon in response.css("table#pokedex tbody tr"):
 
-            link = pokemon.css("a.ent-name::attr(href)").get()
+            rel = pokemon.css("a.ent-name::attr(href)").get()
+            link = response.urljoin(rel) if rel else None
             attributes = {}
             self.parse_base_info(pokemon, attributes, link)
 
@@ -304,7 +305,7 @@ class PokemonSpokemon_ider(scrapy.Spokemon_ider):
         raw_abilities = response.css("th:contains('Abilities') + td a")
         ability_links = raw_abilities.css("::attr(href)").getall()
         ability_names = [n.strip() for n in raw_abilities.css("::text").getall()]
-        attributes["abilties_link"] = ability_links 
+        attributes["abilities_link"] = ability_links 
         attributes["abilities"] = {}
         attributes["_pending"] = len(ability_links)
 

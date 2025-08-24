@@ -1,10 +1,14 @@
 #pip install pymongo
-
+#pip install python-dotenv
 
 import json
+import os
+from dotenv import load_dotenv
 from pymongo import MongoClient
 
-mongo_url = "mongodb+srv://senac:MongoDBPokedex@pokedex.mxdv2xi.mongodb.net/?retryWrites=true&w=majority&appName=Pokedex"
+load_dotenv()
+
+mongo_url = os.getenv("MONGODB_URL")
 client = MongoClient(mongo_url)
 
 # banco de dados
@@ -44,10 +48,10 @@ pipeline2a = [
     {"$match": {"evolutions.level": {"$gt": 30}}},
     {"$project": {
         "_id": 0,
-        "from_id": "$id",
-        "from_name": "$name",
-        "to_id": "$evolutions.to_id",
-        "to_name": "$evolutions.to_name",
+        "Id do Pokemon": "$id",
+        "Nome do Pokemon": "$name",
+        "Evolui para Pokemon do Id": "$evolutions.to_id",
+        "Evolui para o Pokemon de nome": "$evolutions.to_name",
         "level": "$evolutions.level",
         "method": "$evolutions.method"
     }}
@@ -59,9 +63,10 @@ print("\n== Consulta 2-B: Pokémon que RESULTAM em tipo Água após level > 30 (
 pipeline2b = [
     {"$unwind": "$evolutions"},
     {"$match": {"evolutions.level": {"$gt": 30}}},
+    {"$addFields": { "to_id_num": { "$toInt": "$evolutions.to_id" } }}, 
     {"$lookup": {
         "from": "pokemon",
-        "localField": "evolutions.to_id",
+        "localField": "to_id_num",
         "foreignField": "id",
         "as": "to_doc"
     }},
@@ -69,14 +74,12 @@ pipeline2b = [
     {"$match": {"to_doc.types": "Water"}},
     {"$project": {
         "_id": 0,
-        "from_id": "$id",
-        "from_name": "$name",
-        "to_id": "$to_doc.id",
-        "to_name": "$to_doc.name",
-        "to_types": "$to_doc.types",
+        "Pokemon evoluido": "$to_doc.name",
+        "Pokemon evoluido de": "$name",
         "level": "$evolutions.level",
-        "method": "$evolutions.method"
-    }}
+        "method": "$evolutions.method",
+    }},
+    {"$sort": {"from_name": 1, "level": 1}}
 ]
 for doc in coll.aggregate(pipeline2b):
     print(doc)
